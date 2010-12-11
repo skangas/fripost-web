@@ -19,7 +19,8 @@ a {
 a:hover, .footer a:hover {
 	color: #111;
 }
-body {	
+body
+{	
 	background: #769359 url(img/bg.jpg) repeat-y center top;
 	color: #443;
 	font-size: 12px;
