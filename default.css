@@ -21,13 +21,14 @@ a:hover, .footer a:hover {
 }
 body
 {	
-	background: #769359 url(img/bg.jpg) repeat-y center top;
-	color: #443;
-	font-size: 12px;
-	margin: 0;
+  background: #769359 url(img/bg.jpg) repeat-y center top;
+  color: #443;
+  font-size: 100%;
+  margin: 0;
 }
 p,cite,code,ul
 {
+  font-size: 0.8em;
   margin-bottom: 1.7em;
   line-height: 1.7em;
   text-align: justify;
@@ -88,39 +89,44 @@ p.incitement
 }
 
 /* header */
-.header {
-	background: #597F93 url(img/header.jpg) no-repeat center top;
-	border-bottom: 1px solid #CCC;
-	height: 180px;
-	text-align: center;
+.header
+{
+  background: #597F93 url(img/header.jpg) no-repeat center top;
+  border-bottom: 1px solid #CCC;
+  height: 180px;
+  text-align: center;
 }
-.header h1 {
-	color: #FFF;
-	font: normal 4em "Trebuchet MS",sans-serif;
-	line-height: 180px;
+.header h1
+{
+  color: #FFF;
+  font: normal 50px "Trebuchet MS",sans-serif;
+  line-height: 180px;
 }
 
 /* navigation */
-.navigation {
-	height: 36px;
-	margin: 0 auto;
-	width: 632px;
+.navigation
+{
+  height: 36px;
+  margin: 0 auto;
+  width: 632px;
 }
-.navigation a {
-	background: url(img/navigation.jpg) no-repeat;
-	color: #FFF;
-	float: left;
-	font: bold 1.2em serif;
-	height: 31px; 
-	letter-spacing: 1px;
-	line-height: 31px;
-	text-align: center;
-	text-decoration: none;
-	width: 120px;
+.navigation a
+{
+  background: url(img/navigation.jpg) no-repeat;
+  color: #FFF;
+  float: left;
+  font: bold 16px serif;
+  height: 31px;
+  letter-spacing: 1px;
+  line-height: 31px;
+  text-align: center;
+  text-decoration: none;
+  width: 120px;
 }
-.navigation a:hover {
-	color: #FFF;
-	background-position: left bottom;
+.navigation a:hover
+{
+  color: #FFF;
+  background-position: left bottom;
 }
 
 /* content */
@@ -136,7 +142,7 @@ p.incitement
 }
 .content h2
 {
-  font: normal 1.2em "Lucida Sans Unicode",sans-serif;
+  font: normal 1em "Lucida Sans Unicode",sans-serif;
   margin-top: 1.5em;
   margin-bottom: 1em;
 }
