@@ -47,6 +47,15 @@ li
   margin-left: 18px;
   margin-bottom: 0.5em;
 }
+table
+{ 
+  margin-left: 1.8em;
+}
+td
+{ 
+  font-size: 0.8em;
+  padding-right: 0.5em;
+}
 code {
 	background: url(img/bgcode.gif);
 	border: 1px dotted #AAA;
