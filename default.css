@@ -16,8 +16,9 @@ Feel free to use and modify but please provide credits.
 a {
 	color: #362;
 }
-a:hover, .footer a:hover {
-	color: #111;
+a:hover, .footer a:hover
+{
+    color: #111;
 }
 body
 {	
@@ -157,9 +158,12 @@ p.incitement
 }
 
 /* footer */
-.footer {
+.footer
+{
 	color: #886;
-	font-size: 0.9em;
+	font-size: 0.65em;
+        padding-left: 4em;
+        padding-right: 4em;
 	padding-bottom: 12px;
 	text-align: center;
 }
