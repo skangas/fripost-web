@@ -1,0 +1,25 @@
+;; -*- mode: org -*-
+
+* Content 
+** Add explanation of the systems we are building
+** Add "participate" page where suggestions are given on member activities
+** Translate entire web site to Swedish
+** Graphical material?
+** Work out better structure of website
+
+
+* Technical/infrastructure
+** Find out how we are to manage the website long-term
+   Emacs MUSE or org-mode seem like two viable alternatives.
+** How are we to handle translations?
+
+   Perhaps look at how gnu.org manages this, though we will only ever need two
+   languages (English/Swedish).  Most will probably be only in Swedish, but a
+   few key pages should be available in English.
+
+** Add a wiki
+*** Decide on what software to use
+*** Move all content from fellowship.se to this new wiki 
+
+
+
