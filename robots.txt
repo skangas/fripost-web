@@ -1,0 +1,4 @@
+user-agent: *
+disallow: /README
+disallow: /TODO
+disallow: /.git
