@@ -1,0 +1,65 @@
+= Stadgar =
+
+En förening behöver stadgar och här utarbetar vi ett förslag. Stadgarna fungerar som ett slags intern lag i föreningen, och det är viktigt att den behandlar extremfall som uteslutning, extra årsmöte och upplösning av föreningen. Om det är någonting du inte håller med om, dyk upp på ett arbetsmöte och tyck till eller skriv under [[Diskussion:Projekt/friepost/Stadgar|diskussionssidan]].
+
+==Förslag till stadgar för Fria e-postföreningen==
+* Inledning
+** Fria e-postföreningen är en förening som syftar till att driva fri infrastruktur för e-post på internet.
+** Föreningen finns i första hand i Göteborg, men det är öppet för alla som bor i Sverige att gå med.
+** Föreningens huvudspråk är svenska.
+* Medlemskap
+** Medlem är den som erlagt medlemsavgift.
+** Tidigare utesluten medlem kan endast bli medlem efter prövning av styrelsen eller, efter att en annan medlem lyft frågan, efter ett särskilt beslut på årsmötet. 
+** Alla medlemmar har lika rätt att använda föreningens infrastruktur.
+** Medlemsavgiften fastställs av årsmötet.  Om årsmötet så beslutar kan uppgiften delegeras till styrelsen.
+** Föreningar kan bli medlemmar till en viss avgift efter särskilt beslut av styrelsen.
+** Medlem kan lämna föreningen genom skriftlig begäran. Begäran ska behandlas inom rimlig tid av styrelsen.   
+* Allmänna bestämmelser
+** Beslut fattas som huvudregel med enkel majoritet, det vill säga mer än hälften av rösterna krävs.
+** Man kan inte rösta genom ombud eller med fullmakt.
+** Vid lika antal röster vinner det förslag som respektive instans ordförande röstar på. Om ordförande inte har rösträtt eller avstår från att rösta, avgör en andra röstomgång, därefter lotten.
+** Styrelseledamot eller suppleant har ej rätt att delta i beslut om ansvarsfrihet för styrelse man själv tillhör.
+** För att styrelse och övriga valda organ skall vara beslutsmässiga skall kallelse ha gått ut till samtliga ledamöter och suppleanter och de närvarande ledamöternas och suppleanternas antal skall tillsammans uppgå till minst hälften av de valda ledamöternas antal.
+** Val till förtroendeposter sker i separata, slutna val. 
+** Firman ska tecknas två i förening.
+** Verksamhetsåret och kalenderåret är mellan föreningens årsmöten.
+* Årsmötet
+** Årsmötet är föreningens högsta beslutande organ.
+** Årsmötet väljer i slutna, separata val
+   - Styrelse
+   - Revisorer
+   - Valberedning
+** Alla närvarande medlemmar har rösträtt på årsmötet.
+** För att anses som behörigt utlyst, ska kallelse till årsmöte ha varit medlemmarna tillhanda senast 3 veckor innan mötet.
+** Föreningen ska ha minst en revisor.
+* Extra årsmöte
+** Extra årsmöte kan inkallas om minst 1/3 av föreningens medlemmar så kräver.
+* Styrelsen
+** Styrelsen ansvarar för den löpande driften av föreningens e-posttjänster och ekonomin.
+** Styrelsen leder föreningen mellan dess årsmöten, och ansvarar för att genomföra årsmötets beslut.
+** Styrelsen ska bestå av minst 3 ordinarie ledamöter.
+** Styrelsen ska välja en kassör inom sig.
+* Utrustning
+** Föreningen använder endast sådan hårdvara som den själv äger, eller som vi fått låna eller annars upplåtits till vårt användande under en period av minst ett år.
+** För att säkra medlemmarnas integritet kräver föreningen exklusivt användande av de servrar vi använder.  Detta betyder bland annat att endast av föreningen valda administratörer har administratörsåtkomst till servrarna.
+** För att säkra tjänstens tillförlitlighet kan kan under övergångsperioder delade lösningar accepteras (exempelvis genom virtuella servrar).
+* Administrationsrättigheter
+** Administratörer (root) väljs av styrelsen efter behov.
+** Styrelsen har möjlighet att ge begränsat mandat, till exempel åtkomst endast på en eller ett par servrar.
+* Uteslutning
+** Medlem kan uteslutas som genom försummelse eller medveten handling har åsidosatt andra föreningsmedlemmars säkerhet eller privatliv eller på annat sätt grovt försummat den interna demokratin och stadgemässiga ordningen.
+** Medlem kan uteslutas av ett årsmöte med enkel majoritet.
+** I väntan på sådant beslut kan styrelsen stänga av en medlem med 3/4 majoritetsbeslut. Den berörde ska alltid ges tillfälle att yttra sig i frågan.
+* Stadgarnas giltighet och tolkning
+** Endast årsmötet kan ändra stadgan.
+** Stadgeändringar träder omedelbart i kraft, utom ändringar i XXXX [förbundets upplösande, denna paragraf, samt bestämmelser om kallelse till årsmöte/extra årsmöte] som måste beslutas av två på varandra följande årsmöten.
+** Styrelsen tolkar stadgan mellan föreningens årsmöten.
+* Föreningens upplösning
+** Årsmötet kan upplösa föreningen genom ett beslut med 3/4 majoritet.
+** Om föreningen upplöses bestämmer följande regler vad som händer med dess eventuella tillgångar:
+*** Om årsmötet så beslutar, kan de medlemsavgifter som erlagts under de senaste 12 månaderna betalas tillbaka.  Om pengarna inte räcker till så fördelas de jämnt över nämnda medlemmar, oavsett deras individuella tidpunkt för betalning.
+*** De tillgångar som eventuellt finns kvar tillfaller antingen Electronic Frontier Foundation eller Free Software Foundation Europe.
+
+
+Frågor:
+* Kan föreningar bli medlemmar i andra föreningar?

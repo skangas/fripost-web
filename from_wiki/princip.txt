@@ -1,0 +1,257 @@
+'''OBS! All text på den här sidan är att betrakta som högst preliminär och kan förändras från en dag till en annan.'''
+
+== Inledning ==
+
+I takt med ett ökande Internetanvändande hos en bredare befolkningsgrupp så har inflytandet över materialet på Internet och kommunikationsvägarna flyttats från Internets användare till stora privata aktörer och annonsfirmor. Vi(fotnot: Principförklaringens författare, i skrivande stund Gustav Eek och Stefan Kangas) ser denna utveckling som en del i utvecklingen av det globalkapitalistiska civilsamhället, den världsordning, som råder idag. Befolkningens vardagliga behov tillgodoses idag av transnationella initiativ, men det är samma initiativ som kontrollerar och (faktiskt) ''producerar'' dessa behov; samma aktörer som skapar den kultur som konsumeras skapar också den kulturella efterfrågan. Internet och dess kommunikativa infrastruktur är här inget undantag. Effekten blir till och med förstärkt i och med Internets interaktiva egenskap, som ger dessa aktörer kontroll, inte bara över vilka budskap som sänds till samhällets medborgare, utan också vad och på vad sätt de kommunicerar med varandra. 
+
+Vi tycker att denna tendens är olycklig. Utvecklingen måste ta en annan väg, en väg som bevarar friheten och möjligheterna som är inneboende i tekniken, men som ...
+Ta infrastrukturen i egna händer... organisering för stabilitet etc...
+
+RAPS den fria e-postföreningen vänder sig mot den annars allenarådande tendendsen att såväl formandet av kultur coh livsstilar som produtiona av ovh inflytandet över kommunikativ infrastruktur koncentreras i transnationella aktörer som minskar i antal men växer i storlek. 
+
+I denna principförklaring diskuteras först infrastrukturens omvandling. Vi redogör för en hotbild mot vår frihet på Internet och i vardagen. Sedan presenteras idén med RAPS och föreningens principer och löften gentemot dess medlemmar.
+
+== Bakgrund ==
+
+Kommunikation och datadistribution via Internet ökar stadigt, och samtidigt blir Internet en alt viktigare del av sammhälets infrastruktur. Sedan 1990-talets början har det skett en explosion i användandet av inte bara e-post utan även av snabbmeddelanden, som ICQ, IRC och Jabber, och andra sociala medier som Facebook. Men det är inte bara det. Också lejonparten av kontakten med samhällets institutioner, banker och myndigheter, inköp och informationssökning sker över Internet. 
+
+Detta avsnitt syftar till att ge en beskrivning av hur Internet används som kommunikationsinfrastruktur. 
+
+=== Datorarbete och makten över tekniken ===
+
+Det är tydligt att den som har makt över tekniken har makt över dess användare. 
+
+Free Software Foundation har publicerat ''de fyra friheterna'' som utgör minimikravet för ''fria datorprogram''. (Free Software Foundation "The Free Software Definition") Som komplement till ''de fyra friheterna'' föreslår vi fyra minimikrav för att eget datorarbete ska kunna betraktas som fritt. I denna kontext innefattar ''datorarbete'' allt handahavande av datorer. Dit räknas skrivande och räknande såväl som kommunikation och datorspel. ''Eget datorarbete'' är sådant datorarbete som utförs helt för egen del. (Fotnot: Richard Stallman påpekar att om man utför arbete som anställd i något företag eller i något samarbetsprojekt som t.ex. Wikipedia så är det inget eget datorarbete utan del i deras datorarbete. I ett sådant läge är det inte ens egen frihet som är hotad utan snarare dens som man arbetar för eller med. (Stallman 2010))
+
+''Frihet'' vad gäller ''eget datorarbete'' innebär
+# att arbetet utförs med uteslutande fria datorprogram, enligt Free Software Foundations definition,
+# att arbetet utförs med hårdvara som man äger och direkt kontrollerar,
+# att man själv äger och direkt kontrollerar den information man arbetar med,
+# att man själv äger och direkt kontrollerar resultatet av arbetet, arbetets produkt.
+
+Samma sak menas också med att "ha kontroll" över sitt datorarbete, eller att datorarbetet är ''fritt''. Vi använder här termen "information" för att beteckna den data, de dokument, etc., som man arbetar med.
+
+=== Internet och Internets servrar ===
+
+Internet är från början konstruerat som ett ''icke-hierarkiskt nät''
+(eng. ''peer-to-peer network''), en decentraliserad struktur där varje del(fotnot: man brukar prata om nät som bestående av ''noder'' och ''kanter''. Noderna i Internät är servrar, växlar och persondatorer.) av nätet är självständig och
+självbestämmande. (Moglen 2010) Denna decentraliserade struktur möjliggör för alla deltagare
+att på lika villkor uttrycka åsikter, dela filer, marknadsföra burktomat
+eller vad som helst som faller en in. 
+
+Trots detta är Internet idag, sett ur många vardagliga
+användares perspektiv, strukturerat på ett hierarkiskt vis kring ett minskande antal servrar av växande storlek. 
+Man måste ansluta till servern för att kunna arbeta med sin
+information. I och med att sådana Internettjänster av olika slag blir
+vanligare och mer komplexa begränsas användarnas makt över sin datoranvändning.
+Man reduceras till passiv konsument av en tjänst som man får tillgång till
+enbart under allt-eller-ingetliknande omständigheter.  Den egentliga makten över
+tekniken har koncentrerats i händerna en eller ett fåtal aktörer. 
+
+Det egentliga syftet med en server på Internet är historiskt att samla och
+publicera information från serverns klienter. (Moglen 2010) Numera så sker publiceringen inte längre i ett separat
+steg utan är en integrerad och nödvändig del i det normala bruket av servertjänsten. 
+
+Denna förändring har skett snabbt och utan demokratisk diskussion, vilket
+förvisso ofta är fallet när det kommer till teknik.  Sociala medier har skapat
+helt nya sätt att kommunicera och snabbt sprida information. Samtidigt har
+det sätt på vilket de sociala medierna växt fram lett till att ett fåtal företag
+kunnat monopolisera dem. I kraft av sin blotta storlek har alternativ helt
+marginaliserats.  Ovanpå det gamla decentraliserade nätverket Internet, har helt
+nya nätverkt vuxit fram.  De här nätverken skiljer sig från det gamla internet
+redan därför att de är helt centraliserade.
+
+<blockquote><p>Om man måste använda en server, då ska man använda en server vars driftsledning ger en garant för tillit bortom en rent affärsmässig relation (Stallman 2010).</p></blockquote>
+
+=== Datorprogram som tjänst ===
+
+''Datorprogram som tjänst'', eng. ''Software as a Service'' (SaaS), innebär i en vid betydelse att användare inbjuds till att utföra sitt datorarbete på eller via en nätserver på Internet eller på ett lokalt nät (LAN) med datorprogram som kör på den servern. Ett centralt syfte med SaaS är att separera ''innehav'' och ''ägandeskap'' av datorprogram från dess ''användande'' (Turner 2003); man säger att programen "licencieras vi anfodran" (Wikipedia "Software as a service"). Visionen från förespråkare är en dynamisk datorprogramsmarknad där tjänster sätts samman och levereras just vid användandet efter slutanvändarens momentana behov (Turner 2003). 
+
+De flesta proprietära datorprogram levereras idag helt eller delvis efter dessa principer, men här används SaaS i enighet med Richard Stallman (2010) något smalare för att beteckna datoranvändande som inte sker på hårdvara som användaren själv besitter. Exempel på populära Internet-tjänster som kan anses vara datorprogram som tjänst är Google Docs, Facebook, och div. spel på Internet. Problemet med SaaS är att det i dubbel bemärkelse förvägrar användaren kontroll över sitt datorarbete. För det första så är användaren inte garanterad att arbete går att upprepa eller fortsätta eftersom omständigheterna för programmens distribution kan ändras alt efter leverantörens önskemål (vilket också gäller allt datorarbete med proprietära datorprogram). Och för det andra så, om arbetet utförs på en server, så är användaren inte garanterad att arbetetes produkt alltid kommer finnas tillgänglig när användaren så önskar. 
+
+=== Gratistjänster, finns de? ===
+
+Många Internettjänster omnämns ofta missvisande som gratistjänster, men det är dags att lyftafram och diskutera tjänsternas dolda kostnader. Det finns alltid ett pris att betala, om det inte är i pengar så är det genom inflytande, kontroll, makt, integritet eller rent arbete.  
+
+Googles så kallade gratistjänst för e-post är
+ett bra exempel. (fotnot: Det är meningsfullt att här markera särskilt mot
+Google, då de har en så dominerande ställning att den på många områden börjar
+likna ett monopol, på samma sätt som GNU/Linux-förespråkare ofta vänder sig
+specifikt mot Microsoft.) Användare av tjänsten får förvisso, utan att behöva betala, en e-posttjänst med det mesta av vad man
+normalt förväntar sig av en sådan. Vad man också får, och även detta "gratis" är ständigt spioneri. Google går systematiskt igenom e-brev och visar reklam skräddarsytt för just den användaren. Google kan också koppla ihop informationen från med ett konto, som gör att de kan spåra många av de webbplatser du besöker, vilken information man söker efter
+och vilka klipp du ser på Youtube.  Trots sitt starka varumärke och sin
+marknadsföringsslogan "do no evil" är de alltså värre än många andra.
+
+Vi har inga garantier för att de följer sin slogan, hur många gånger de en
+upprepar den.  Det är inte användarna som har makten över Google, ja faktiskt
+inte ens de som arbetar där.  Det är företagets ägare som har sista ordet, och i
+vanlig ordning fattas beslut på styrelsemöten och bolagsstämmor.  På dessa möten
+väger din och min integritet lätt som en fjäder i förhållande till nästa
+kvartalsrapport.  Andra företag kanske har mindre information att exploatera,
+men grundproblemen är i samtliga fall desamma.
+
+=== Öppna och slutna standarder och protokoll ===
+
+I praktiken
+har man rutat in en del av internet och slagit upp en skylt som säger: "privat
+område -- obehöriga äga ej tilträde".  Så kan man exempelvis inte starta en egen
+del av Facebook och koppla ihop det med det övriga.  I den mån man kan göra
+något eget måste man helt underställa sig de spelregler som Facebook själva har
+bestämt.  Vi har blivit tillvanda vid extrem centralisering, integritetsproblem
+som inte tas på allvar och bristande kontroll över vår information.  De
+användaravtal man måste acceptera för att släppas in i de monopoliserade
+tjänsterna innehåller ofta nära nog fullständig ansvarsfrihet för företaget
+samtidigt som det ger företaget makt att göra nästan vad som helst med den
+information man skapar eller publicerar på tjänsten.
+
+=== Övervakning och privatliv ===
+
+En ständigt ökande del av vår kommunikation sker via Internet.  Formerna för
+kommunikation är en angelägenhet för alla som deltar i den.  Så exempelvis har
+vi traditionellt haft stränga regler för hur myndigheter och andra får bete sig
+vad gäller exempelvis förbud mot telefonavlyssning eller posthemligheten.
+Starka regler kring fri kommunikation är avgörande för att garantera
+individuella och kollektiva demokratiska fri- och rättigheter.
+
+Google är redan nämnt. 
+
+Tekniken är alltså aldrig neutral.  Vad som ligger bakom till synes "neutrala"
+och "tekniska" förändringar eller innovationer är sociala faktorer -- ibland
+politiska opinioner som de kommer till uttryck i allmänna val, men oftare
+teknikföretagens ägarförhållanden och deras behov av att göra vinst.  Sådana
+affärsintressen kommer aldrig kunna garantera oss den makt över tekniken som vi
+menar att alla borde ha rätt till.  Att använda den fritt.
+
+=== E-post ===
+
+Som redan nämnts är e-postandet inget undantag från tendensen att informationens jättar sprids. I Göteborg har Chalmers tekniska högskola och Göteborgs universitet lagt ut sitt e-postsystem på entreprenad till Microsoft respektive Google.(fotnot: Lite historia om Hotmail, Outlook och ägandeskap. Googles e-posttjänst är Gmail.)  Chalmers motiverar: <blockquote> (Citat från webplatsen här) (eller GU:s, vad som passar bäst)</blockquote> Också institutioner som utan problem skulle kunna förbli oberoende lockas alltså fördelarna som storskaligheten bär med sig. 
+
+Vi kommer här inte redogöra för detaljerna i hur förmedlingen av e-post går till men för diskussionens fullständighet behöver vissa saker nämnas. E-post består av... (E-postinfrastrukturen extremt kort: SMTP, Mx, POP, IMAP, och inte minst DNS) 
+
+Huruvida e-post som sådan kan anses vara datorprogram som tjänst är inte helt klart, men de tjänster som Microsoft och Google levererar gör definitivt mer än bara skickar e-post. Stallman skriver: <blockquote>Vissa sidor vars huvudsakliga tjänst är publicering och kommunikation utökar detta med "kontakthantering": att hålla reda på personer som du har kontakt med. Att skicka e-post till dessa personer är inte datorprogram som tjänst, men att hålla reda på dina förehavanden med dem är datorprogram som tjänst (Stallman 2010).</blockquote>
+Enligt Fria e-postföreningens definition av fritt datorarbete innefattas skrivandeprocessen och det initiala sändinitiativet i eget datorarbete men inte själva förmedlingen av e-posten. (Motivera mer) Mottagandet av e-post däremot är eget datorarbete. Från den stund då sändaren mottagit en bekräftelse på att e-brevet anlänt är man utelämnad till att själv ta hand om e-posten. 
+
+E-post är dessutom ett medium som alltid använts till att avhandla strängt privata ämnen, och för många den viktigaste delen i deras Internetanvändning, om än kanske inte alltid den mest tidskrävande. Som nämnt är antalet länkar mellan sändare och mottagare många och möjligheterna... (fortsatt utläggning om privatlivet, spionage och övervakning)
+
+Loggar på nätets servrar och det kuvert som ingår i SMTP protokollet är omöjligt att dölja för utomstående, men Ämnesrad och innehåll däremot... (Något om kryptering och signering)
+
+== Organisering för förändring ==
+
+Den dystra tendens som beskrivits, att vi lägger vår frihet händerna på stora transnationella företag, gäller inte bara vårt datoranvändande. Hela vår vardag genomsyras av den globalkapitaliska världsordningen. Utvecklingen är inte önskvärd, men frågan är vilka möjligheter det finns för enkla världsmedborgare att åstadkomma en förändring, för sig själva och för världen i stort. (Se vidare. Naomi klein ''No logo'', Hart och Negri ''Imperiet'', Mikael Löfgren ''Sorgens globala diktatur''. Man kan säkert göra prettolistan längre) 
+
+Vad vi faktiskt kan göra är att besluta oss för att inte ge efter och inte ge bort något till eller nytja oss av de stora ickedemokratiska institutionerna som Google och Microsoft, besluta oss för att allt datorarbete vi gör är fritt, och sky kommunikation över protokoll som inte är öppna. En utväg som tar tillbaka
+makten över tekniken och lägger den i folkets händer.
+
+=== RAPS den fria e-postföreningen ===
+
+Vår idé är att starta en förening som tar tillbaka makten över en liten men
+viktig del av våra liv: vår e-post.  Det är ett problem bland många men det är
+ett där vi tror oss ha en början på en lösning.  
+
+Vi måste för det första ha den tekniska infrastruktur som krävs för att driva en
+e-posttjänst.  Denna måste konfigureras och ges åtkomst till internet. Även om vi till en början kommer förlita oss på
+donerad och utlånad hårdvara och internetåtkomst, måste vi på sikt bli oberoende
+av enskilda individers givmildhet i detta avseende.  Vi tror att problemen i
+detta avseende är ganska små.  Den som konkret ansvarar för driften av detta
+måste bli styrelsen och av dem utsedda ideellt arbetande funktionärer.
+
+Föreningen måste sätta interndemokratin och genomskinlighet i första rummet.  Om
+föreningen fattar beslut som bygger på andra grunder än de som finns i denna
+principförklaring, urholkar det hela idén med föreningen.  Detta är den främsta
+garanten för att dessa värden efterlevs -- att styrelsen aktivt arbetar för att
+förverkliga dem. Årsmötets
+rätt att revoltera mot föreningens ledningen är en grundläggande
+princip, som garant mot alla tendenser till ledningens byråkratisering.
+
+Det kan inte vara gratis att vara medlem i föreningen.  Samtidigt som detta kan
+göra att vissa med ekonomiska svårigheter får svårt att delta, tvingas vi inse att
+självfinansiering är det enda sättet att garantera ett långsiktigt oberoende och
+självbestämmande.  Om vi skulle acceptera att göra verksamheten beroende av
+statliga eller kommunala bidrag, skulle vi också acceptera att man eventuellt
+ställer vissa krav på verksamheten.  Bidragsgivarna kan vilja styra inriktningen
+på verksamheten i en speciell riktning, exempelvis med riktade bidrag till
+speciella former av verksamhet.  Detta kringskär medlemsdemokratin på ett
+oacceptabelt sätt.  Bara föreningens medlemmar ska ha rätt att fatta beslut som
+påverkar föreningens direkta verksamhet.  (fotnot: Om däremot bidrag finns för
+en verksamhet som föreningen ändå hade tänkt genomföra så faller dessa argument,
+åtminstone så länge föreningen inte gör sig beroende av dessa bidrag.)
+
+=== Föreningens principer ===
+
+Syftet med att blida en förening likt RAPS, den fria e-postföreningen, är att möjliggöra för enskilda att ta kontroll över sitt datoranvändande. Tillsammans besitter vi kunskaper och medel nog för att genomföra investeringar och administrera system för en säker och fri kommunikation via Internet. 
+
+E-postföreningen förespråkar att
+* allt eget datorarbete ska vara fritt, 
+* Internet ska vara uppbyggt på ett decentraliserat sätt, och 
+* att system ska konstrueras så att den personliga integriteten starkt bevaras. 
+
+Vi ansera att skicka och ta emot e-post med hjälp av RAPS är fritt arbete, så som definierat i (...). 
+
+I och med den demokratiska strukturen och ägandeförhållande hos idiella föreningar som RAPS så anser vi att skicka och ta emot e-post via RAPS är fritt arbete. Därför är det extra vikigt att föreningens styrning hålls transparant och att föreningens medlemmar fortlöpande informeras om arbetet och att möjligheterna till demokratisk påverkan förblir stora.
+
+RAPS och dess administration lovar
+# att ta emot e-post för medlemmar på ett tillförlitligt sätt,
+# att skydda medlemmars integritet, dvs. att aldrig
+## läsa eller analysera medlemmars e-post, vare sig fysiskt eller via datorprogram,
+## samla statistik om eller analysera medlemmars e-posttrafik via föreningens servrar,
+## under inga omständigheter lämna ut uppgifter om medlemmar, deras e-post eller andra förehavanden, eller något annat till tredje part, (fotnot: göres undantag om lagen säger så?)
+# att sörja för god transparens vad gäller administration, ekonomi och styrning, och
+# att aldrig växa sig stor. 
+
+För att sörja för punkt 1 ovan, dvs. driftsäkerheten, sparar RAPS logar och tekninsk information. Men som punkt 2.1--3 säger är föreningen beredd att gå långt för att denna information inte ska komma andra till del, vilket t.ex. skulle kunna innebära förnekande om dess existens eller radering.
+
+=== Motargument ===
+
+Man får väl det man betalar för?  Inget kan vara gratis!  Google måste få tjäna
+pengar, etc.
+
+Se FAQ:n
+
+Hur skiljer vi oss från andra e-postleverantörer?
+
+Vi är ingen e-postleverantör! Vi är en förening som förvisso tillhandahåller e-posttjänster för medlemmarna, men det är fel att tänka på medlemsskapet som ett kundförhållande. Rätt är att se det som att man som medlem bestämt sig för att organiserat och tillsammans med andra ta kontroll över (en del av) sin kommunikation. Jämför oss hellre med facket eller Hyresgästföreningen än med Bredbandsbolaget eller Bahnhof.
+
+Om du ändå vill ha en lista, här är den:
+
+* Inget vinstintresse. Alla pengar vi får in går till föreningens verksamhet, som är att hålla igång eposttjänster och informationsspridning. 
+* Genomskinlighet. Allt som sker beslutas demokratiskt och öppet. 
+* Medlemmarna har makten. På föreningens årsmöten formar vi föreningen gemensamt, fattar viktiga beslut och stakar ut den riktning vi ska gå i framtiden. 
+
+Strävar ni efter världsdominans?
+
+Nej. Vi hoppas att folk kopierar vårt koncept och bygger demokratiskt kontrollerad infrastruktur för e-post och allt annat. Helst skulle vi se att det fanns en Folkets tekniska infrastrukturkommité i varje kvarter, men än så länge...
+
+== Långsiktiga framtidsutsikter/Avslutning ==
+
+Vår förening är inte en modell för en slutgiltig lösning på de problem vi beskrivit ovan.  Vår förhoppning är att
+dessa våra idéer ska inspirera andra att göra något liknande, eller som man
+kanske brukar säga: låt tusen blommor blomma.  Vår vision är enkel: ett samhälle
+där makten över tekniken ligger i de direkta användarnas händer.  Där ingen
+central instans har rätt eller ens möjlighet att begränsa vad användarna gör med
+tekniken.  All makt åt användarna är idag det enda sättet att garantera en
+långsiktigt demokratisk, solidarisk och allmännyttig teknikutveckling.
+
+Vi har sett vad marknaden åstadkommer med vår teknik.  Vi gillar det inte.
+Makten över tekniken är för viktig för att lämna i händerna på ett fåtal.
+Därför vill vi ta tillbaka makten över tekniken.
+
+Vår tid kännetecknas av stor oro inför samhällsutvecklingen, men samtidigt av en
+utbredd uppgivenhet och passivitet.  Vi tänker inte knyta näven i byxfickorna,
+beklaga utvecklingen på vår kammare och hoppas att någon annan löser problem åt
+oss.  Vi tar det i våra egna händer.  Tillsammans är vi starka.
+
+== Noter ==
+Not 1: "[...] every switch in the Net is an independent, free-standing entity whose volition is equivalent to the volition of th human beings who whant to control it."
+
+
+
+== Referenser ==
+* Turner, M. et.al. (2003). "Turning Software into a Service", ''Computer'' vol. 36, IEEE Computer Society 2003.
+
+* Stallman, R. M (2010). "Who does that server realy serve?", ''Boston review'', endast nätupplaga [http://bostonreview.net/BR35.2/stallman.php http://bostonreview.net/BR35.2/stallman.php]. Reviderad version på [http://www.gnu.org/philosophy/who-does-that-server-really-serve.html http://www.gnu.org/philosophy/who-does-that-server-really-serve.html].
+
+* Molgen ...
+
+* Wikipedia, "Software as a service", [http://en.wikipedia.org/wiki/Software_as_a_service http://en.wikipedia.org/wiki/Software_as_a_service]. Hämtad 2010-08-28.
+
+* Free Software Foundation. "The Free Software Definition", [http://www.gnu.org/philosophy/free-sw.html http://www.gnu.org/philosophy/free-sw.html]. Hämtad 2010-08-30.

@@ -1,0 +1,18 @@
+Att producera texter på svenska i en miljö där de flesta källorna är engelskspråkiga kan många gånger vara ett problem. Ett annat problem, som förvisso också är en tillgång, är att de texter som skapas här är samarbetsprojekt, vilket medför att många gånger olika ord och stavningar används för att beteckna samma sak. 
+
+För att råda bot på detta så har denna lista instiftats. Man kan se listan som en stilguide över vårt gemensamma språkbruk. 
+
+= Generella råd =
+Vi försöker i möjligaste mån använda ord ur det svenska språket. Undvik särskrivningar. Det heter t.ex. "e-postmeddelande" och inte "e-post meddelande" eller "e-post-meddelande". 
+
+= Stavningskonventioner =
+* Skriv "Internet" istället för t.ex. "internet".
+* Skriv "e-post" istället för t.ex. "e-post", "epost", el. "e-mail".
+* Skriv "e-brev" eller "e-postmeddelande" istället för t.ex. "mejl" el. bara "meddelande"
+* Skriv "nät" istället för "nätverk"
+
+= Förklaringar och definitioner =
+* ''E-post'' är den allmänna tekniken att skicka meddelanden över Internet. E-posttekninken ska jämföras med ''e-brev'', vilket är enskilda meddelanden förmedlade med e-post. 
+
+= Översättningar av engelska termer =
+* switch -- växel

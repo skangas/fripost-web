@@ -1,0 +1,156 @@
+Anteckningar om föreningens bidrag till konferensen FSCONS 2010 
+==Suggestion to Call for participation FSCONS 2010==
+Generella anteckningar och frågor. Ska vi använda ``email'' eller ``e-mail''? Gustav föredrar ``e-mail'', men konsekvens är viktigt. 
+
+Stefan tycker att vi gör som postfix och gmail som båda säger email.
+
+===Authors===
+Gustav Eek and Stefan Kangas
+===Contact email===
+skangas@skangas.se
+
+===Preferred timeslot=== 
+30 min
+===Proposal title===
+Några hållpunkter som jag tycker vad gäller titeln:
+* inga förkortningar,
+* lockande och igenkännande, och 
+* återknytande till texten.
+Folk känner igen &ldquo;Software as a Service&rdquo;, så det kanske ska vara med. 
+
+Olika förslag...
+
+* &ldquo;[http://en.wiktionary.org/wiki/syndicate Syndicated] E-mail Service Against Software as a Service&rdquo;
+* &ldquo;Serve our self the server service&rdquo;
+* &ldquo;Servicing our own software as a service&rdquo;
+* &ldquo;Defeating SaaS by socializing email services&rdquo;
+* &ldqou;Collaborative email servers against SaaS&rdquo;
+
+===Proposal summary===
+It is becoming increasingly common for persons and organizations to hire external services for e-mail handling, and even for the use of spreadsheets and word processing. This phenomenon, known as ''Software as a Service'' (SaaS), implies restrictions in the users freedom that is not only tangential.
+
+In our ambition to counteract this tendency, we would like to present a project of constructing an independent and autonomous e-mail hosting service, run by a syndicate, ''The Free E-mail Association'', for the associations members. The syndicate is driven by a simple framework that guarantees that it is
+* of independent means,
+* democratically structured, 
+* built on trust between its members, and
+* ready to be far-reaching with regards to avoiding traffic logging and to protect the members privacy.
+The service that we are hoping to create is a full featured e-mail solution with high reliability and accessibility.
+
+This project exemplifies that the creation of a freedom preserving network service is possible, and it is also an example of what that can look like.
+
+The obvious question to raise is whether this service actually is not just another SaaS? Obviously, all individual members can not at all times reach absolute freedom and computational control. However, these limitations must be weighed against that investments in a more reliable technical infrastructure are possible only through collaboration. Also, we believe that the association's democratic structure and numerical and geographical boundaries are enough to mitigate the limitations; the limited user participation is still sufficient for the service to bee regarded as free. 
+
+We hope that this project can raise curiosity enough to tantalise users away from private suppliers of e-mail and other services, to either join our association or even better start more similar projects.
+
+===Other information===
+It is preferred from our point of view that the talk is scheduled in an early stage of the conference. This since the hope is to raise questions for further discussion during the conference.
+
+==Antagen till konferensen==
+Den 24 juli blev föredraget "Syndicated E-mail Service Against Software as a Service" antagen till temat "Infrastructure" på FSCONS 2010. Jeremiah Foster är koordinator för temat som har beskrivningen 
+
+<blockquote>Wikipedia defines infrastructure as "the basic physical and organizational structures needed for the operation of a society." The theme focuses on the infrastructure needs for tomorrows future society, as well as the basic need for privacy and secure communication, together with monitoring, both as a threat and as a tool to manage our ever increasing networks.</blockquote>
+
+Det är ett antal saker som vi från Jonas Öberg blivit ombedda att utföra och återkomma till Jonas och Jeremiah angående. 
+# Granska den föreslagna sammanfattningen av föredraget och revidera det med det övergripande temat i åtanke och om något tillkommit i föredraget. 
+# Om vi har några begränsningar vad gäller schemaläggningen. 
+# Frågan om när vi kommer till Göteborg och om vi ska vara med på de sociala tillställningarna. 
+
+Frågan är också om konferensen vill ha någon längre artikel för föredraget. I så fall vore det bra att sätta igång med det nu, snart. En idé skulle vara att översätta principförklaringen om den kan skrivas på ett tillräckligt vetenskapligt sätt.
+
+== Second article for the conference ==
+
+This is the second proposal, which is longer and more adjusted to the infrastructure theme description. The proposal follows declaration of principals.
+
+=== Introduction ===
+
+User freedom is the most important property of tomorrows infrastructure. This property is necessary to safeguard the relative freedom of speech provided by the Internet against increasingly aggressive attacks by preying commercial and opportune state interests.
+
+In this abstract of a talk on FSCONS 2010 we first try to define freedom in computer work. Then the problem of increased centralization of the Internet is discussed and a number of ongoing threats to this freedom are identified. We then present the ''Free Email Association'', what built up infrastructure we have, and our principles. Finally we try to sketch what we think the future paths might look like.
+
+=== Background ===
+
+The centralisation of influence and rectification of decision-making is not unique for the Internet. This is written in a wider context of general social criticism of economic and cultural globalisation and the current forms of the globalisation of information flows. Many decisions are made in multi-lateral arenas where the democratic control is limited.^1 A decreasing number of transnational operators, not only controls the means of production and the production of goods, but also have great influence in markets demands.
+
+The Internet is, or will soon be, the most important communication medium in the majority of the industrialized world. The story of its development from its conception as a highly distributed network through the establishment of the free and open web, towards the increasingly privatized web we see today is indeed saddening for those who takes user freedom seriously. A few strong parties control major segments of important infrastructure that millions of users depend on every day. Those who control the technology and its infrastructure also have power over its users.
+
+==== Computing, computer labour, and power over the infrastructure ====
+
+The ''Free Software Foundation'' suggest definition of ''free software'' consisting of four requirements: the "freedom to run, copy, distribute, study, change and improve the software". (Free Software Foundation "The Free Software Definition") As a complement to those we define the more general ''freedom with regard to own computer labour'' ^2 as requiring that
+
+# the work is performed exclusively with free software,
+# the work is performed with computer hardware that entirely is at one's possession and control,
+# the information worked with is information that one possess, and
+# the result from the computer work also is at one's possession and control.
+
+We here use "information" to denote data and documents that are the object to computer work. In this context ''computer labour'' is all use of computers, and ''own computer labour'' is computer work performed for one's own part. ^3
+
+==== Internet and its servers ====
+
+The ''Internet'' seen as an infrastructure scheme was constructed as a distributed ''peer-to-peer'' non-hierarchical network of independent and self-determined parts. ^4 Despite this immanent property, the Internet today, seen from a regular user's point of view, is structured in a hierarchical manner around a decreasing number of server clouds, which are continuously growing in size and power. Historically the meaning of ''servers'' was to gather and publish information provided from its clients. However, in many applications today, publishing is not performed as a separate process, and the clients are no longer always independent. For example social networking sites, like Facebook, often require their users to perform their work directly on the company's servers. (Moglen 2010)
+
+==== Software as a service ====
+
+A concept introduced in the spirit of centralisation is ''Software as a Service'' (SaaS). Shortly SaaS is that users are invited to perform their computer work on or through a network server on Internet or a local network. The main purpose of SaaS is to separate ''possession'' and ''ownership'' of software from its ''usage''. This software is said to be "licenced on demand". (Turner 2003)
+
+In this text ''Software as a Service'' is used in a more narrow sense in accordance with Stallman (Stallman 2010), to mean one's own computer work on hardware that the user do not control. Popular Internet services that are examples of SaaS are Google Docs and Facebook, but the concept is widely used. Computer work performed with this software is non-free in a double sense; using SaaS also leads to ''vendor lock-in''. However, the complex of lock-in problems reach far outside SaaS.
+
+==== The infrastructure of email ====
+
+The email infrastructure is not an exception from the tendency towards centralisation and rectification of Internet's services and usage. We now see even large institutions being lured in by the economic benefits offered by these large scale solutions.
+
+Email communication through the Internet involves several computers and servers, among those a ''mail user agent'', a computer program controlled by the sending person; several ''mail transfer agents'', Internet servers responsible for getting the mail though using the SMTP protocol; ''domain name system servers'', servers keeping track of the addresses to all those servers; and finally another ''mail user agent'', used by the receiving person to read the emails. It is also common to make use of extra inbox handling services like ''IMAP access'' or ''webmail'', which usually involve separate servers.
+
+What about email and freedom? We here need to distinguish what part of emailing that is one's own computer labour. Editing email definitely is, along with all sort of contact management. The transfer process, however, is not. Whether the email arrives is of course of great concern to the sender, but there is generally no human activity (directly) involved and thus no actual work performed. In principle the same holds also for the process of receiving email. However, most popular email services are not content with that. Stallman writes, <blockquote>Some sites whose main service is publication and communication extend it with "contact management": keeping track of people you have relationships with. Sending mail to those people for you is not SaaS, but keeping track of your dealings with them, if substantial, is SaaS. (Stallman 2010)</blockquote> And using SaaS is not free computer labour. Furthermore, whether hiring a company for handling one's email imply usage of SaaS or non-free computer labour might not be the only matter of importance.
+
+==== Privacy and survelliance ====
+
+With large clientele comes a lot of power. Google is currently not the largest email service provider; both Windows Live Hotmail and Yahoo Mail has more customers. (Brownlow 2010) We nonetheless believe it is important to single Google out as a company, because of how effectively they utilize privacy invading schemes that are integrated between their services. Together with Google's e-mail service one also get services that probably was not asked for: advertisement, semantic analyses of email contents, and spying. (Moglen 2010) The data resulting from Google's analysis and espionage is later used indirectly in marketing campaigns with Googles customers or sold directly to third party. Google is profiting on their email users with the means of the users private information provided by themselves.
+
+Google link that data to individuals' surf activities using Google's search engine, Google accounts and cookies. Additionally, many websites utilize Google's JavaScript APIs, web site statistics or reCAPTCHA service, which indirectly exposes individuals to Google's supervision.
+
+=== Organisation for a change ===
+
+Technology has never been neutral. Behind technology changes and innovations today lies commercial interests and social factors. On the one hand, the ownership structure of technology companies and their endeavour for profit ensures that usage of their services for work and communication will never be free. On the other hand, only a fraction of the everyday Internet users have knowledge and resources enough to create free alternatives on his or hers own hand. The question is also what we can reasonably expect from an average user in terms of engagement in their privacy and freedom. 
+
+Our idea is to form an association and together take back a small but important part of our Internet life, namely the email communication infrastructure. We gather around several servers that receives and stores the members' email. The purpose of the association is to render it possible for individuals to bring their computer usage under their own control. And to show that user freedom is possible, even if only through active, prolonged and collective struggle.
+
+In more detail, we start with five or six servers spread out in Sweden and Europe connected through the Internet: at the very least two mail exchange and one IMAP server, separate backup and log servers, and hopefully a webmail server. In the beginning we will not have an SMTP send mail service, and we will hire the DNS service from third party. Though we will have tight economic boundaries, our focus on reliability and stability forces us to try hard to maintain a sufficiently high level of redundancy.
+
+The email service provided through the Free Email Association is free as in free speech, not as in free beer. This because of the democratic structure and of non-profit and commonly owned organisations like the Free Email Association. The free email association promises to
+
+# work hard to receive email for the sake of its members in a reliable manner
+# protect its member's integrity, that is to never
+#* read or analyse its members emails, either manually or automatically, (possibly with exception for voluntary spam filter services and alike)
+#* gather statistics about or analyse member's traffic through the association's servers, and
+#* under no circumstances hand out information about members, their emailing and other activities, or any other information to third party, and
+# provide for transparency regarding administration, economy and the decision-making process.
+
+Transparency and continuous information about the work of the board is of cause extra important, and the democratic regime requires constant attention. A declaration of principles serve as a founding document for the association, but still a high level of trust is laid on the elected officers.
+
+=== On the long term ===
+
+We recommend and encourage everyone to perform their computer labour with free software at machines that are in their own possession. But many solutions on Internet servers, like Google Docs and Facebook, are quite usable and practical and adopted to a modern way to meet and work computer-aided. The Free Software Community has a great challenge in the creation of free and distributed alternatives, where free means that their usage imply only free computing.
+
+Despite this, we must not deceive ourselves into thinking that the final and greatest challenge is about building physical infrastructure or programming advanced distributed social networking solutions. The real challenge is to get people engaged in the issue of the Internet's power structures and in their own freedom and privacy.
+
+No one in their right mind would put their blind trust in a government that was dabbling in surveillance on a scale anywhere near what Google is doing. But when it comes to Google, their marketing strategy  has been so successful that many people need no additional guarantees that Google will behave &ndash; people are willing to take Google's word for it.
+
+The reasons behind the described changeover of the Internet are structural. The structural tendency, as described, is that already powerful operators get even more power when computer labour is generally becoming less free. Structural problems need structural change, but projects like the Free Email Association serve as an alternative to structural change for those who are eager to establish free alternatives. In the long-term, however, we realize that a larger social change on a structural level is necessary. The best we can hope for is to give a small contribution to bringing about that change.
+
+=== Footnotes ===
+
+^1 Good, recent examples are the European Unions IPRED directive or the ACTA agreement.
+
+^2 Stallman uses ''your own computing'' to denote what we call ''one's own computer labour''. [2] We use the latter because of its broader associations.
+
+^3 Stallman points out that work performed as employee in some company or in a cooperation project as Wikipedia is not one's own computer work, but a part of that company's or project's work. In that case it is not one's own freedom that is threatened, but the company's or project's. (stallman 2010):
+
+^4 Technically the parts of a network are ''nodes'', which in the case of Internet are servers, switches, and personal computers, and ''edges'', which are interconnecting wires.
+
+=== References ===
+
+* [1] Turner, M. et.al. (2003). "Turning Software into a Service", Computer vol. 36, IEEE Computer Society 2003.
+* [2] Stallman, R. M (2010). "Who does that server realy serve?", Boston review, only web version http://bostonreview.net/BR35.2/stallman.php. Revised version på http://www.gnu.org/philosophy/who-does-that-server-really-serve.html. Fetched 2010-08-30. 
+* [3] Moglen E. (2010). "Freedom in the Cloud", talk given to the New York chapter of ISOC February 2nd 2010. Video available at http://new.law.columbia.edu/isoc/eben_moglen_freedom_in_the_cloud.ogv, and transcription at http://www.softwarefreedom.org/events/2010/isoc-ny/FreedomInTheCloud-transcript.html. Checked 2010-09-10.
+* [4] Free Software Foundation. "The Free Software Definition", http://www.gnu.org/philosophy/free-sw.html. Fetched 2010-08-30. 
+* [5] Brownlow M. (2010). "Email and webmail statistics", http://www.email-marketing-reports.com/metrics/email-statistics.htm. Updated May 2010. First published April 2008. Fetched 2010-09-21.

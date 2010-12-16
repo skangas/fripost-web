@@ -1,0 +1,43 @@
+=Fripost - den fria e-postföreningen=
+[http://fripost.org/ Hemsida // Web site]
+
+Titta även in i #fripost på freenode.net.
+
+En ständigt ökande del av vår kommunikation sker via internet.
+
+Många av oss har idag sin e-post hos sin internetleverantör eller hos en av de
+många "gratistjänster" som tillhandahåller e-post.  Problemet är att även om vi
+slipper betalar ger vi ifrån oss kontrollen över vår information.  Vissa
+"gratisleverantörer", som Google, har gjort det till affärsidé att spionera på
+användare.
+
+Via e-post avhandlas strängt privata saker.  Om vi har vår e-post på servrar som
+kontrolleras av någon annan är vi helt utlämnade.  Därför finns vår förening.
+
+== Founding meeting ==
+
+A founding meeting was held November 4, 2010 18:00 at Gnutiken, Övre Husargatan 27.
+
+Relevant documents:
+* [[Projekt/friepost/Årsmöte|Dagordning för årsmötet]] (SV)
+* [[Projekt/friepost/Stadgar|Förslag till stadgar]] (SV)
+
+Background information:
+* [[Projekt/friepost/Budget|Förslag till budget]]
+
+== Arbete ==
+
+* [[Projekt/friepost/Principförklaring|Förslag till principförklaring]] (SV)
+* [[Projekt/friepost/Stadgar|Förslag till stadgar]] (SV)
+* [[Projekt/friepost/Budget|Förslag till budget]]
+* [[Projekt/friepost/FAQ|FAQ]] (SV)
+* [[Projekt/friepost/Teknik|Infrastruktur och teknik]] (SV)
+* [[Projekt/friepost/Extra|Sidospår]] (SV)
+* [[Projekt/friepost/Protokoll|Anteckningar från möten]] (SV)
+* [[Projekt/friepost/FSCONS|Deltagande i konferensen FSCONS 2010]] (SV)
+* [[Projekt/friepost/Årsmöte|Dagordning för årsmötet]] (SV)
+* [[Projekt/friepost/Ordlista|Termer och begrepp: Konventioner, definitioner, förklaringar och översättningar]] (SV)
+
+== Arkiverat arbete ==
+
+* [[Projekt/friepost/Domännamn|Förslag till domännamn]] (SV)

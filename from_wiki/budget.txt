@@ -1,0 +1,48 @@
+Written in org-mode for editing (though not viewing :() niceness.
+
+Stuff removed from budget: UPS (was deemed to be overkill).  Raid controller
+(will probably be included in server, or we might even manage on software raid).
+
+= Budget =
+
+* Expenses
+
+- 1 unit in a 19 inch rack 6,000 SEK/per year (including VAT)
+
+- 10 st 1 TB-diskar ca 5,500 SEK (including VAT and shipping)
+
+  I checked prices for ''Hitachi Deskstar 7K1000.C HDS721010CLA332 32MB 1TB'',
+  which is a nice consumer level drive.
+
+  ''Western Digital Caviar Black WD1002FAEX 64MB 1TB'' is perhaps a better
+  choice, but this bumps the cost to around 8000 kr.  I do not think this is
+  worth it.
+
+* Incomes
+
+  If we think we need only the minimum of 11,500 SEK per year we get the following figures:
+
+ |------------------------+-----------------------------|
+ | Membership fees in SEK | Necessary number of members |
+ |------------------------+-----------------------------|
+ |                    100 |                         115 |
+ |                    200 |                        57.5 |
+ |                    300 |                   38.333333 |
+ |                    400 |                       28.75 |
+ |                    500 |                          23 |
+ |------------------------+-----------------------------|
+  #+TBLFM: $2=11500/$1
+
+
+  If we count on 15,000 SEK per year we get the following figures:
+
+ |------------------------+-----------------------------|
+ | Membership fees in SEK | Necessary number of members |
+ |------------------------+-----------------------------|
+ |                    100 |                         150 |
+ |                    200 |                          75 |
+ |                    300 |                          50 |
+ |                    400 |                        37.5 |
+ |                    500 |                          30 |
+ |------------------------+-----------------------------|
+  #+TBLFM: $2=15000/$1

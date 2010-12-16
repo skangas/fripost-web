@@ -1,0 +1,132 @@
+Här följer lite anteckningar från föreningens sammanträden. 
+
+Here follows some notes from the association's meetings 
+
+== October 28, 2010 ==
+
+The meeting's agenda
+* Technical status report and discussion
+* Progression
+* Budget and membership fee
+* The participation in FSCONS
+
+=== Participants ===
+Navid, Johan S. Stian, Stefan, Gustav och Jens. 
+
+These notices were taken by Gustav.
+
+=== Technical discussions and conclusions ===
+
+The goal is to set up a network of five servers: two mail gateways relayed to one main IMAP (Internet Message Access Protocol) server, a server for backup, and one for keeping logs. The main IMAP server will be hosted at some dedicated hosting service but the others in closets among the members. The servers has to be set up with high redundancy in storage, RAID 5 or 6 (Redundant Array of Independent Disks). 
+
+With this setup the association can receive e-mails with good reliability, but sending has to be solved through the members' ISP:s (Internet service Provider). 
+
+The status is that a test system is on the way to be set up, and the software issues are solved one by one. Stefan and Gustav is working on this. All steps are well documented, and the documentation can be fetched from a git repository (to be announced). Examples of solved software issues are that SMTP (Simple Mail Transfer Protocol) though SSH-tunnel (Secure SHell) is better than NFS (Network File System) for to relaying e-mails, and that a MySQL database is to be used ad lookup table for what mail addresses we have, which simplifies bouncing. 
+
+The server will not provide open relaying and not even user SMTP relaying. 
+
+See [[Projekt/friepost/Teknik|The Teknik page]] for details. 
+
+==== Public documentation ====
+
+There were suggestions about how to get documentation published, and the reasons are several. Setting up a mail server is not the easiest thing to do, and support is needed. For the association's idea to be spread, people must be taught how to do. Suggestions: 
+* Virtual machine
+* Virtual packages for debian
+* etc.
+
+=== Philosophical background ===
+
+We refer to the [[Projekt/friepost/Principförklaring|declaration of principles]] for the philosophical background. 
+
+=== Budget ===
+
+Some budget suggestions are to be seen on the [[Projekt/friepost/Budget|budget]] page. The accepted budget for buying hardware and hire hosting is 15.000 SEK, and the membership fee were suggested to be 300 SEK. This means that the association needs 50 members to get started. The figures are finally accepted on the founding meeting (see bellow). 
+
+=== Progression === 
+
+In a month or two the test system is expected to be set up. 
+
+Expectations for FSCONS (Free Society Conference and Nordic Summit) are that we will have two concrete offers
+* join now for 300 SEK, and expect a mail system in a couple of months, or
+* a version for the reserved to join when we have enough members. 
+Gustav (mainly) and Stefan (as far as time admit) will also work out some promotion material. 
+
+The domain name <code>fripost.org</code> will be reserved, and the possibility to buy <code>fripost.se</code> will be checked. The name of the association will be ''Fripost den fria e-postföreningen'' (translated ''Fripost the Free E-mail Association''). 
+
+An formation meeting, '''founding meeting''', will be held November 4 at 18.00 in [http://gnutiken.se Gnutiken]. On this meeting the following will be decided upon 
+* statues (by-laws)
+* board 
+* approvals 
+* nominating committee  
+* membership fee
+* budget
+* annual meeting date. 
+
+Suggested date for annual meeting is February. Then also the [[Projekt/friepost/Principförklaring|declaration of principals]] will be accepted. 
+
+=== Next meeting November 4 ===
+
+Next meeting, thus, November 4 at 18.00 in [http://gnutiken.se Gnutiken].
+
+== 7 oktober 2010 ==
+
+Nedtecknade av Stefan Kangas.
+
+'''Use cases''' efterfrågades för att slippa ha ett 5 minuters tal varje gång.
+
+'''RAID-lösningar''' diskuterades. Idén är att köra två system med RAID-5 eller RAID-6 på fyra eller fem diskar (beroende på vad som får plats i en unit). Idén är att sätta upp den ena på en trevlig hårdvaruraid i en seriös rackplats, och den andra som en spegling av detta system med en software raid typ hemma i någons garderob.  Speglingen fungerar då som backup, och har identisk storlek och lika hög raid-redundans som huvudsystemet.  I övrigt kör vi på donerad/lånad hårdvara.
+
+Nivåer på datasäkerhet diskuterades. Viktigt att ha realistiska förväntningar -- vi är inte Google. Detta betyder inte att vi inte ska anstränga oss för att inte tappa data.
+
+'''Budget'''. Förslaget verkade lite lågt satt enligt allmän uppfattning.
+
+Kostnader:
+ljo kan fixa priset 500/månad = 6000 kr/år (inkl. moms) för en plats i ett 19"-rack.
+5500 kr = 10 st. 1 TB 3.5" SATA-diskar om man beställer dem på nätet.
+
+Detta ger en *absolut* lägsta kostnad om 10.500 kronor för att få upp lite seriösa grejer. För att ge utrymme vill vi därför ha en budget på minst 15.000 kr.
+
+'''Finansiering'''. Hur många medlemmar behövs?
+Olika sätt att få folk att intressera sig diskuterades.  Möjlighet att teckna 3 års medlemskap?  Möjlighet för stödmedlemskap?
+
+Ställen där man kan söka pengar: Internetstiftelsen, Nordisk kulturfond, NLNet.nl (mer osäkra: EU, ABF). Engångsbidrag bedömdes allmänt som ett acceptabelt undantag från föreningens princip om självfinansiering.
+
+'''Ny träff''' den 28 oktober 2010 på Gnutiken.
+
+== 21 juni 2010 ==
+Deltagare: Gustav, Leif-Jöran, Stefan, Stian och Patrik.
+
+'''Dagordning.'''
+*Ta fram en tidsplan
+*Öppna en principiell diskussion 
+*Infrastruktur, hård- och mjukvara
+*Föreningens geografiska utsträckning
+*Finansiering, priser och kapacitet
+
+'''Tidsplan.'''
+Det vore önskvärt att ta fram ett beprövat koncept att lansera under FSCONS i november 2010. I övrigt:
+* Innan 30 juni: beslut angående om det finns något att presentera under FSCONS
+* Juli och augusti: arbete med att sätta upp servrar och ta fram stadgar och andra dokument
+* Slutet av augusti: årsmöte
+* November: presentation
+
+'''Principer.'''
+Mötet diskuterade vilka ramverk som ska styra föreningen. Föreningen ska vara
+* ekonomiskt självförsörjande, 
+* demokratiskt uppbyggd, med tillhörande begränsningar i den geografiska utsträckningen,
+* bygga sin struktur kring förtroende mellan medlemmar,
+* om så kräver, bedriva civil olydnad vad gäller loggning av trafik etc. 
+allt i den personliga integritetens och egenkontrollens namn. 
+
+'''Infrastruktur.'''
+Det viktigaste vad gäller e-post är tillförlitlighet. För oss innebär detta ''inga förluster''. Distributionens hastighet är inte lika prioriterat. Spegling enligt Raid 5 är tillräckligt. SPAM-filter får användaren köra lokalt. IMAP-servrar har förhållandevis höga prestandakrav. MX-servrar ska var separata från IMAP-servrarna. Vi behöver också DNS-SEC och certifikat. 
+
+'''Material och småsaker att ta fram.'''
+Något som behövs för att se föreningens plats i Internett-djungeln är en lista om fördelar och nackdelar och en lista på erfarenheter från andra leverantörer. Vi behöver också 
+* en statisk HTML-sida, 
+* en presentation av föreningen och dess idéer
+* stadgar,
+* konstituerande dokument och riktlinjer.
+
+== Se också ==
+* [[Projekt/friepost|Tillbaks till projektets huvudsida]]

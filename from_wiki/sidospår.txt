@@ -1,0 +1,7 @@
+= Sidospår =
+
+För ökad integritet, skulle man inte kunna kräva att all e-post som tas emot skall vara krypterad? Alla mottagaradresser pekar ut en publik PGP-nyckel. Om ett inkommande brev inte redan är krypterat (dvs bara kan låsas upp med rätt privata PGP-nyckel) så krypteras brevet med den publika nyckeln innan det lagras permanent på disk.
+
+Detta bidrar till att '''root''' inte har någon insyn i någon mottagares e-post - det går mer eller mindre inte att gå in och läsa andra mail. Det är ingen "risk" med att skicka backuper/kopior mellan system eller tom lägga upp publik på nätet, t ex vid en ev exponering genom hackad burk.
+
+:Det är en bra idé, så länge man i så fall anger detta genom en ny header eller liknande. Inte bara gör det svårare för root att missbruka, dessutom skyddar man användarna även om vi t.ex. får påhälsning från Säpo. Det är egentligen inte svårt att göra heller. Frågan är dock om det inte är bättre med en opt-in? --[[Användare:Stefan Kangas|Stefan Kangas]] 22 juni 2010 kl. 02.38 (UTC)

@@ -1,0 +1,35 @@
+=Årsmötet för Föreningen för fri e-post=
+Årsmötet ska bilda föreningen, besluta om stadgar, styrelse, medlemsavgifter, investeringar, etc. 
+
+'''Möteshandlingar'''
+* Förslag till dagordning
+* Förslag till stadgar
+* Lista på förslag till domännamn
+
+'''Mötets utlysande'''
+Mötet måste annonseras till alla som skulle vara intresserade i god tid, förslagsvis två till tre veckor i förväg. 
+
+==Förslag till dagordning==
+# Mötets öppnande
+# Övrig mötesformalia
+## Val av mötesfunktionärer: 
+### mötesordförande, 
+### mötessekreterare och
+### justeringsperson
+## Godkännande av dagordningen
+## Mötets utlysande
+# Bildande av förening och fastställande av föreningens namn
+# Fastställande av stadgar
+# Val av ordförande
+# Val av styrelse
+## Fastställande av antal ledamöter
+## Val av styrelse
+# Val av valberedning
+# Val av revisor
+# Fastställande av medlemsavgift
+# Föreningens verksamhet
+## Fastställande av domännamn
+## Investeringsbeslut
+## Övriga verksamhetspunkter
+# Övriga frågor
+# Mötets avslutande

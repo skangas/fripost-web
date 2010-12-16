@@ -1,0 +1,38 @@
+=Hårdvara=
+
+* 2 servrar som fungerar som mail gateways, på två olika platser. Kan ha raid men behöver inget jätteutrymme.  Reläar e-post till IMAP-servern där det lagras.
+* Huvudserver med raid och mycket plats, anslutning från användare via IMAP.
+* Backupserver/spegel av detta system.
+* Dedikerad remote logging server.
+* Dedikerad backupserver med mindre plats för backup av icke-kritiska system samt mail gateways.
+* Eventuellt en webmail som kan ansluta till IMAP:en, dock lågprio.
+
+=Datorprogram=
+
+* Debian GNU/Linux stable
+* postfix (MTA)
+* dovecot (IMAP-server)
+* rsyslog (logging)
+* apache + squirrelmail (eller något som inte är skrivet i PHP) - föreslår roundcube istället, testa på http://wendt.se/webmail/
+* rsync -> rsnapshot -> bacula
+
+Kanske, rang ett:
+* mailman
+
+Kanske, rang två:
+* spamassassin (varje användare sitt eget filter?)
+* clamavd (behöver vi detta? går att prova och se vilken overhead det ger...)
+
+=Hostning=
+
+Stefans servrar kan stå där de står för tillfället.
+
+ljo?
+
+=Övrigt=
+
+Vi vill ha certificate från cacert.org
+
+Vi vill ha DNSSEC
+
+Vem får '''root'''? Förslagsvis så få som möjligt. Går det att decentralisera ansvaret? T.ex. behöver man inte självklart root på både loggservern och backupservern. Vad behövs root till egentligen - det är väl bara till att starta tjänster på priviligierade portar (< 1024)? Resten bör kunna ske med full respekt för individens integritet och som löst kopplade delar?
