@@ -4,13 +4,16 @@
 ** Add explanation of the systems we are building
 ** Add "participate" page where suggestions are given on member activities
 ** Translate entire web site to Swedish
+** English/Swedish "icons" for changing languages
 ** Graphical material?
 ** Work out better structure of website
 
 
 * Technical/infrastructure
 ** Find out how we are to manage the website long-term
+
    Emacs MUSE or org-mode seem like two viable alternatives.
+
 ** How are we to handle translations?
 
    Perhaps look at how gnu.org manages this, though we will only ever need two
