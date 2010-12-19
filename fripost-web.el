@@ -5,7 +5,7 @@
         ("fripost-web-pages"
          :base-directory ,default-directory
          :base-extension "org"
-         :publishing-directory ,(concat default-directory "../publish/")
+         :publishing-directory ,(concat default-directory "/publish/")
          :recursive t
          :publishing-function org-publish-org-to-html
          :preamble "<div class=\"header\">
@@ -50,4 +50,4 @@
         ("fripost-web" :components ("fripost-web-pages" "fripost-web-static"))
       ))
 
-;; M-x org-publish-project RET org
+;; M-x org-publish-project RET fripost-web
