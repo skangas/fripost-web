@@ -11,7 +11,8 @@ absolutely no requirement that you are a Swedish citizen, the only requirement
 is that you live here.
 
 To join, send an email to our president Stefan Kangas at [[mailto:skangas@skangas.se][skangas@skangas.se]], and
-make a payment according to below.
+make a payment according to below.  (If you wish, you may encrypt your
+information to PGP key 0x8F4353EE).
 
 ** Member information
 

@@ -4,7 +4,7 @@
 För att gå med i Fripost, betala medlemsavgiften och skicka ett mail med din
 information enligt nedan.  Din information kan du skicka till Stefan Kangas på
 [[mailto:skangas@skangas.se][skangas@skangas.se]] (om du vill kan du kryptera informationen till PGP-nyckel
-0xXXXXXXXX).
+0x8F4353EE).
 
 #+HTML: <div class="divider"></div>
 
