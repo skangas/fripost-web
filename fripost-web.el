@@ -6,6 +6,7 @@
          :base-directory ,default-directory
          :base-extension "org"
          :publishing-directory ,(concat default-directory "/publish/")
+         :exclude "/publish/"
          :recursive t
          :publishing-function org-publish-org-to-html
          :preamble "<div class=\"header\">
@@ -42,7 +43,8 @@
         ("fripost-web-static"
          :base-directory ,default-directory
          :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg"
-         :publishing-directory ,(concat default-directory "../publish/")
+         :publishing-directory ,(concat default-directory "/publish/")
+         :exclude "/publish/"
          :recursive t
          :publishing-function org-publish-attachment
          )
