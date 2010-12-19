@@ -35,6 +35,14 @@ p,cite,code,ul
   line-height: 1.7em;
   text-align: justify;
 }
+i
+{
+  font-style: italic;
+}
+b
+{ 
+  font-style: bold;
+}
 h1
 {
   font: normal 1.2em "Lucida Sans Unicode",sans-serif;
@@ -46,6 +54,7 @@ ul
 li
 {
   list-style: url(img/li.gif);
+  line-height: 1.7em;
   margin-left: 18px;
   margin-bottom: 0.5em;
 }
@@ -58,6 +67,20 @@ td
   font-size: 0.8em;
   padding-right: 0.5em;
 }
+div.square
+{
+  background: url(img/bgcode.gif);
+  border: 1px dotted #AAA;
+  color: #444;
+  display: float;
+  float: right;
+  width: 30%;
+  font: normal 1em "Lucida Sans Unicode",serif;
+  margin-left: 2em;
+  margin-bottom: 1em;
+  padding: 8px 10px;
+}
+
 code {
 	background: url(img/bgcode.gif);
 	border: 1px dotted #AAA;
@@ -113,7 +136,6 @@ p.incitement
   font: normal 50px "Trebuchet MS",sans-serif;
   line-height: 180px;
 }
-
 /* navigation */
 .navigation
 {
@@ -141,7 +163,6 @@ p.incitement
   color: #FFF;
   background-position: left bottom;
 }
-
 /* content */
 .content
 {
@@ -152,16 +173,48 @@ p.incitement
 {
   color: #553;
   font-size: 1.4em;
-  margin-bottom: 4px;
+  margin-bottom: 1em;
   text-align: center;
 }
-.content h2
+.content h2 /* equivalent to h1 above */
+{
+  color: #553;
+  font-size: 1.4em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+.content h3
 {
   font: normal 1em "Lucida Sans Unicode",sans-serif;
   margin-top: 1.5em;
   margin-bottom: 1em;
 }
 
+/* special styles */
+.square h1
+{ 
+  font: bold 0.8em "Lucida Sans Unicode",sans-serif;
+  margin-bottom: 0.2em;
+}
+.square p
+{ 
+  border-top: dotted 1px black;
+  padding-top: 5px;
+  text-align: left;
+  margin-bottom: 0em;
+}
+.header a.translate
+{ 
+  color: #FFF;
+  font-size: 0.8em;
+  position: absolute;
+  top: 10px;
+  left: 27.5%;
+}
+.header a.translate:hover
+{ 
+  color: #00F;
+}
 /* footer */
 .footer
 {

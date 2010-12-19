@@ -1,0 +1,42 @@
+#+TITLE:     Fripost \ndash den fria e-postföreningen
+#+SETUPFILE: includes/level-0.org
+
+#+BEGIN_HTML
+<div class="square">
+<h1>Nästa möte</h1>
+
+<p>10 januari klockan 18:00 på <a href="gnutiken.html">Gnutiken</a>.  Styrelsen
+träffas bland annat för att utvärdera arbetet under julhelgen.</p>
+
+</div>
+#+END_HTML
+
+Teknologi är inte och har aldrig varit någonting neutralt.  På Internet
+koncentreras makten alltmer i händerna på ett fåtal.  Många servrar och stora
+delar av nödvändig infrastruktur kontrolleras av några få, stora aktörer.
+Samtidigt blir fler och fler medvetna om hur Google och andra som levererar
+"gratis" e-post har gjort spioneri på sina användare till en mycket lönsam
+affär.  Vi är många som upplevt ett starkt obehag inför den här utvecklingen.
+
+Företagen driver givetvis på den här utvecklingen, men hittils har vi användare
+inte kunnat göra annat än att acceptera deras krav.  Vi har tittat på deras
+reklam, godkänt deras användaravtal och fortsatt använda deras tjänster.  Det
+har inte funnits några alternativ.
+
+Vår idé är väldigt enkel.  Låt oss ta steget från att bara /prata/ om
+integritetsproblemen till att faktiskt /göra/ någonting.  Genom att skapa ett
+alternativ tar vi tillbaka makten över en viktig del av vår kommunikation: vår
+e-post.
+
+Bara ett fåtal har kunskap och resurser nog att själva bygga de system som krävs
+för att slippa använda deras tjänster.  I Fripost låter vi de som vet hur sköta
+systemen.  Andra hjälper till med hemsidan eller sprider vårt budskap på andra
+sätt.  Ytterligare några deltar bara genom att de betalar medlemsavgiften och
+använder vår e-postlösning. /Och alla behövs./
+
+När vi samarbetar visar det sig att vi har vilja, resurser och kunskap nog till
+att steg för steg frigöra vårt datoranvändande.  Vad som är omöjligt för någon
+som är ensam blir enkelt när man sluter sig samman.  Ensam står svag;
+tillsammans kan vi flytta berg.
+
+** Välkommen till Fripost.

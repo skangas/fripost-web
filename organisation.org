@@ -1,0 +1,100 @@
+#+TITLE:     Föreningen Fripost
+#+SETUPFILE: includes/level-0.org
+
+Fripost är en demokratisk förening, vilket betyder att alla beslut om
+föreningens inriktning fattas gemensamt av våra medlemmar. Som medlem kan du
+delta på alla möten i föreningen, inklusive styrelsens möten.
+
+Det huvudsakliga sättet att påverka är emellertid genom föreningens
+årsmöten. Det ska inte bara vara de som har tid att vara med på precis varje
+möte som ska ha möjlighet att påverka föreningen. Nästa årsmöte är planerat
+någon gång till våren 2011.
+
+Vi strävar hela tiden efter att förbättra föreningens genomskinlighet. Det
+ska vara lätt att hitta information om föreningens verksamhet, vare sig det
+gäller nästa träff, senaste mötesprotokollet eller information om våra tekniska
+system.
+
+Våra tekniska lösningar [[https://github.com/skangas/fripost-docs][dokumenterar]] vi utförligt och historik över förändringar
+sparar vi med ett versionshanteringssystem.  Det gör det enkelt för den som vill
+(och kan) att följa administratörernas arbete på nära håll.
+
+På den här sidan hittar du mer information om föreningen. Om någonting saknas
+eller är oklart, tveka inte att [[file:kontakt.org][höra av dig]] till oss med dina synpunkter.
+
+#+HTML: <div class="divider"></div>
+
+* Styrelsen
+
+** Styrelsens uppgifter
+
+Enligt föreningens stadgar ska styrelsen:
+
+- Arbeta för att ta emot medlemmarnas e-post på ett tillförlitligt sätt
+- Sörja för god transparens vad gäller administration, ekonomi och styrning
+- Arbeta för att skydda medlemmarnas integritet, d.v.s. att aldrig
+  - Läsa eller analysera medlemmars e-posttrafik, manuellt eller automatiskt
+  - Samla statistik om, eller analysera medlemmarnas e-posttrafik via
+    föreningens servrar
+  - Under inga omständigheter lämna ut uppgifter om medlemmar, deras
+    e-posttrafik, eller andra förehavanden till tredje part
+    
+** Styrelsens sammansättning
+
+#+BEGIN_HTML
+<!-- TODO: lägg in folk i en tabell och visa deras e-postadresser, kanske som bild -->
+<p>Stefan Kangas (ordförande)<br />
+Gustav Eek<br />
+Leif-Jöran Olsson<br />
+Stian Rødven Eide (suppleant)<br />
+Ver Takeo (suppleant)</p>
+#+END_HTML
+
+** Administrativa rättigheter
+
+Administratörsrättigheter ges av styrelsen efter behov. För närvarande har
+Stefan Kangas, Gustav Eek och Leif-Jöran Olsson administratörsrättigheter på
+samtliga system.
+
+#+HTML: <div class="divider"></div>
+
+* Mötesrapporter och protokoll
+
+** 2010-12-09 Öppet möte om kryptering av e-post
+
+Styrelsen träffades som hastigast innan mötet för att diskutera arbetet. Fokus
+ligger på att bygga upp serverinfrastrukturen just nu, ett arbete som kommer ske
+under hela jullovet. Tahoe Filesystem diskuterades.
+
+Leif-Jöran berättade om kryptering och signering av e-post och alla som ville
+fick byta PGP-nycklar och intygas för cacert.
+
+** 2010-11-17 Styrelsemöte
+
+Diskuterades bland annat antal begränsningar för e-postadresser, alias och egna domäner.
+
+[[file:minutes/minutes/fripost-board-2010-11-17.pdf][Protokoll styrelsemöte 2010-11-17]]
+
+** 2010-11-07 Deltagande på FSCONS
+
+Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
+[[http://fscons.org][FSCONS]]. Du kan läsa deras [[http://fscons.org/infrastructure/distributed-email-system][abstract]] (engelska) här.
+
+** 2010-11-04 Föreningen bildades
+
+Vi grundade föreningen formellt efter mycket planering och förberedande.
+
+[[minutes/fripost-founding-2010-11-04.pdf][Protokoll från årsmötet 2010-11-04]]
+
+#+HTML: <div class="divider"></div>
+
+* Övrigt
+
+Mer information kan du hitta på [[http://fellowship.se/][Fellowship of Free Software Foundation Europe
+Göteborgs wiki-sida]].  Fripost började som ett projekt inom den föreningen, men
+är nu helt fristående.
+
+Det finns [[material/leaflet.pdf][ett flygblad]] som togs fram till FSCONS.  Det får du gärna skriva ut
+och sprida till andra.  Flygbladet är på engelska.
+
+Se [[file:medlemskap.org][medlemssidan]] för mer information om hur du kan gå med i Fripost.

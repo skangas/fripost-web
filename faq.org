@@ -1,0 +1,103 @@
+#+TITLE:     Vanliga frågor om Fripost
+#+SETUPFILE: includes/level-0.org
+#+OPTIONS:   toc:t
+
+#+HTML: <div class="divider"></div>
+
+** Vad är fria e-postföreningen?
+
+Vi är en grupp som organiserat oss för att försvara våra intressen i en
+alltmer digitaliserad värld. Detta genom att sätta igång en autonom och tekniskt
+riktig infrastruktur för e-post.
+
+Vi vill ta tillbaka makten över vår information och vårt privatliv.
+
+#+HTML: <div class="divider"></div>
+
+** När bildades föreningen?
+
+Föreningen bildades formellt den 4 november 2010, men redan innan dess pågick
+förberedelser, diskussion och planering.  Idén att starta föreningen väcktes
+redan i april samma år.
+
+#+HTML: <div class="divider"></div>
+
+** Hur långt har ni kommit?
+
+För närvarande (december 2010) har föreningen två huvudprioriteringar:
+
+- Rekrytera fler medlemmar
+- Bygga testsystem
+
+Byggandet av testsystemet innebär i korthet att vi håller på att bygga upp en
+fungerande e-posttjänst sådan vi vill ha den, men utan att ha den nödvändiga
+tekniska utrustningen.  När vi sedan fått tillräckligt många medlemmar \ndash
+och därmed pengar \ndash ska vi köpa den utrustning som behövs.  Först då
+kommer vi alltså igång "på riktigt".
+
+Det finns med andra ord ingen anledning att tveka \ndash det är nu man ska gå
+med.  Ju förr just du går med desto snabbare kommer vi igång på allvar.
+
+#+HTML: <div class="divider"></div>
+
+** Hur skiljer ni er från andra e-postleverantörer?
+
+Vi är ingen e-postleverantör!  Vi är en förening som förvisso råkar
+tillhandahålla just e-posttjänster till sina medlemmar, men det är fel att tänka
+på medlemsskapet som ett kundförhållande. Rätt är att se det som att den som är
+medlem har bestämt sig för att organiserat och tillsammans med andra ta kontroll
+över (en del av) sin kommunikation.
+
+Vi jämför oss hellre med facket eller Hyresgästföreningen än med
+Bredbandsbolaget eller Bahnhof.
+
+Om du ändå vill ha en lista, här är den:
+
+- Inget vinstintresse.  Alla pengar vi får in går till föreningens verksamhet,
+  som är att hålla igång e-posttjänster och informationsspridning.
+
+- Genomskinlighet.  Allt som sker beslutas demokratiskt och öppet.
+
+- Medlemmarna har makten.  På föreningens årsmöten formar vi föreningen
+  gemensamt, fattar viktiga beslut och stakar ut den riktning vi ska gå i
+  framtiden.
+
+#+HTML: <div class="divider"></div>
+
+** Jag har hört om företaget X, Y eller Z som säljer "integritetssäkrad" e-post.  Kan jag inte bara köpa deras tjänst?
+
+Så klart /kan/ du köpa en tjänst av ett privat företag.  Frågan är varför du skulle vilja det.
+
+När du köper en tjänst av ett företag hamnar du i en väldigt speciell relation
+till dem: du blir deras kund.  Som kund har du svårt att påverka annat än genom
+att gå därifrån.  I bästa fall har deras användaravtal (som du kanske godkände
+för att få bli kund) inte några bestämmelser som säger att du äger din data.
+
+I få fall kan du vara helt säker på att inte din information ligger och skräp
+
+
+#+HTML: <div class="divider"></div>
+
+** Var är föreningens säte?
+
+Föreningen har sitt säte i Göteborg.
+
+#+HTML: <div class="divider"></div>
+
+** Vem kan gå med?
+
+Det enda kravet för medlemskap är att man bor i Sverige.
+
+Meningen med begränsningen är att det måste vara möjligt för medlemmar,
+åtminstone i teorin, att delta på ett årsmöte.  Det är väldigt svårt att delta i
+föreningen om man bor i ett helt annat land.  Om någon från Italien vill gå med
+är det till större nytta om hon startar en egen förening för alla italienare.
+
+#+HTML: <div class="divider"></div>
+
+** Strävar ni efter världsdominans?
+
+Nej. Vi hoppas att folk kopierar vårt koncept och bygger demokratiskt
+kontrollerad infrastruktur för e-post och allt annat. Helst skulle vi se att det
+fanns en Folkets tekniska infrastrukturkommité i varje kvarter, men än så
+länge...

@@ -1,0 +1,20 @@
+#+TITLE:     Kontakta Fripost
+#+SETUPFILE: includes/level-0.org
+
+To contact us, send an email to our president Stefan Kangas at [[mailto:skangas@skangas.se][skangas@skangas.se]].
+
+#+HTML: <div class="divider"></div>
+  
+** Mailing lists
+
+Internally, we use a mailing list to communicate. If you are a member but not
+yet on the list, contact us so we can add you.
+
+The list is open for all members and participation is strictly voluntary.
+  
+#+HTML: <div class="divider"></div>
+
+** IRC
+
+  If you use IRC, you may want to join #fripost at freenode.net.
+  

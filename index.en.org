@@ -1,0 +1,127 @@
+#+TITLE:     Fripost \ndash the Free Email Association
+#+SETUPFILE: includes/level-0.org
+
+Note: See the [[file:medlemskap.en.org][membership]] page for more information about how to join.
+
+Technology has never been neutral. The ownership structure of technology
+companies and their endeavour for profit ensures that usage of their services
+for work and communication will never be free.
+
+At the same time, only a fraction of the everyday Internet users have knowledge
+and resources enough to create free alternatives on their own. The question is
+also: What can reasonably be expected from an average user in terms of
+engagement in their privacy and freedom?
+
+For any one individual, the goal of user freedom may be unattainable. Together,
+we can move mountains.
+
+We are proud to present the newly formed Association for Free Email,
+Fripost. With a distributed network of servers, Fripost will deliver a free and
+reliable email service.
+
+#+HTML: <div class="divider"></div>
+
+* FRIPOST \ndash FREE MAILING
+
+Free your mailing!
+
+The Internet is the most important communication medium in the majority of the
+industrialised world. For those who take user freedom seriously it is saddening
+to see how the Internet has changed from being a highly distributed network to
+the increasingly privatised web we encounter today. A few strong parties control
+major segments of important infrastructure that millions of users depend on
+every day.
+
+** Software as a Service
+
+A concept introduced in the spirit of centralisation is Software as a Service
+(SaaS). SaaS means that users perform their computer work on or through a
+network server on the Internet or a local network. Examples of SaaS are Amazon
+Cloud and Google Docs. One of the main problems with SaaS is that the users has
+no control over their data.
+
+** Privacy and Surveillance
+
+With large clientele comes a lot of power. Large transnational operators, such
+as Google, are profiting from efficient use of privacy invading
+schemes. Together with e.g. Google's email service one also gets things that was
+probably not asked for: advertisement, semantic analysis of email contents, and
+spying. One part of Google's marketing strategy is to sell the collected
+information to third party.
+
+
+** The Free Email Association
+
+Fripost was founded in order to take back a small, but important, part of our
+Internet life, namely the email communication infrastructure. We gather around
+several servers that receive and stores the memabers' email. The reliability of
+the service is of course of great importance.
+
+
+Apart from reliability, also integrity preserving, democratic participation and
+transparency are the watchwords of Fripost. The association will never be
+interested in the content of its members' emails or other dealings. The
+association never supplies information regarding members activities to third
+party. Fripost keeps logs, and that is a part of all responsible service. But
+these logs are only for reliable maintenance, and will never be used for other
+purposes.
+
+
+All work within the association is voluntary. The association is administrated
+by a democratically elected board, and the server administrators are chosen on
+democratic grounds.
+
+** What's the Difference?
+
+With mail services on today's market, users have no power over their mailing,
+and must follow suit the provider's all whims. In that sense, those services can
+never be regarded as free, as in freedom. However, the email service provided
+through Fripost is free! This because of the co-ownership of the association's
+means and the democratic structure of non-profit organisations. No private
+for-profit corporation can offer that, at whatever price.
+
+Through collective organisation, Fripost render it possible for individuals to
+bring yet another part of their computer usage under their own control.
+
+User freedom is possible!
+
+** Join Now
+
+So far we have a running test system; the software setup is working, but we have
+not yet bought the hardware we want to use. The association rely on donations
+and unconditional, unlimited loans, but to achieve sufficient dependability, we
+need to do investments in storage and server hosting.
+
+300 SEK &ndash; A small price for freedom
+
+The starting budget needed is about 15 000 SEK. With a member fee of 300 SEK we
+will need 50 members before we can really get going.
+
+|----------+----------|
+| Plusgiro | 477884-1 |
+| Bankgiro | 311-5060 |
+|----------+----------|
+
+#+HTML: <br /><!-- FIXME: fulhack -->
+
+You may also use cash payment.
+
+** Participate Even More
+
+Fripost is based on voluntary work. There are always things to do for those who
+want to get involved. Most of Fripost's members, however, just configure their
+clients and free their mailing.
+
+** More information is available through
+
+[[http://fscons.org/infrastructure/distributed-email-system][Abstract of a talk, given by Gustav Eek and Stefan Kangas at FSCONS, November 2010]].
+
+[[http://fellowship.se/][Fellowship of Free Software Foundation Europe (FSFE) Göteborg chapter's wiki-page]]
+
+Fripost started as a project within Göteborg Fellowship of FSFE, but is now is
+an independent association.
+
+A version of this text is available through a [[material/leaflet.pdf][leaflet]], which you can print and
+use to spread the word.
+
+See the [[membership.en.org][membership]] page for more information about how to join. Warm Welcomes!
