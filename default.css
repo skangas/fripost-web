@@ -26,6 +26,7 @@ body
   color: #443;
   font-size: 100%;
   margin: 0;
+  text-align: center;
 }
 p,cite,code,ul
 {
@@ -116,9 +117,11 @@ p.incitement
 /* navigation */
 .navigation
 {
+  text-align: left;
   height: 36px;
   margin: 0 auto;
-  width: 632px;
+  /* width: 632px; */
+  width: 600px;
 }
 .navigation a
 {
@@ -140,8 +143,10 @@ p.incitement
 }
 
 /* content */
-.content {
-	padding: 18px 0;
+.content
+{
+  padding: 18px 0;
+  text-align: left;
 }
 .content h1
 {
