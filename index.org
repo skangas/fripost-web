@@ -5,8 +5,8 @@
 <div class="square">
 <h1>Nästa möte</h1>
 
-<p>10 januari klockan 18:00 på <a href="gnutiken.html">Gnutiken</a>.  Styrelsen
-träffas bland annat för att utvärdera arbetet under julhelgen.</p>
+<p>10 januari 2011 klockan 18:00 på <a href="gnutiken.html">Gnutiken</a>.
+Styrelsen träffas bland annat för att utvärdera arbetet under julhelgen.</p>
 
 </div>
 #+END_HTML
