@@ -10,7 +10,7 @@
          :publishing-function org-publish-org-to-html
          :preamble "<div class=\"header\">
   <h1>Fripost</h1>
-<a href=\"index.en.html\" class=\"translate\">Click here for english</a>
+<a href=\"index.en.html\" class=\"translate\">Click here for English</a>
 </div>
 
 <div class=\"navigation\">
