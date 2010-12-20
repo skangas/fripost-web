@@ -1,10 +1,10 @@
 #+TITLE:     Bli medlem i Fripost
 #+SETUPFILE: includes/level-0.org
 
-För att gå med i Fripost, betala medlemsavgiften och skicka ett mail med din
-information enligt nedan.  Din information kan du skicka till Stefan Kangas på
-[[mailto:skangas@skangas.se][skangas@skangas.se]] (om du vill kan du kryptera informationen till PGP-nyckel
-0x8F4353EE).
+För att gå med i Fripost, betala medlemsavgiften (300 kronor) och skicka ett
+mail med din information enligt nedan.  Din information kan du skicka till
+Stefan Kangas på [[mailto:skangas@skangas.se][skangas@skangas.se]] (om du vill kan du kryptera informationen
+till PGP-nyckel 0x8F4353EE).
 
 #+HTML: <div class="divider"></div>
 
@@ -36,16 +36,16 @@ möjligt att betala kontant på någon av föreningens träffar.
 
 ** Medlemsinformation
 
-Fripost bryr sig i medlemmarnas integritet och uppmuntrar till försiktighet när
-det gäller att lämna ut personuppgifter.  I den andan erbjuder Fripost anonymt
-medlemskap, för vilka det enda vi behöver veta är:
+Fripost bryr sig om medlemmarnas integritet och uppmuntrar till försiktighet vad
+gäller att lämna ut personuppgifter.  I den andan erbjuder Fripost anonymt
+medlemskap, för vilket det enda vi behöver veta är:
 
 - Den önskade e-postadressen (dittnamn@fripost.org)
 
 För att möjliggöra för Fripost att nå dig med viktig information kan du också
-lämna:
+välja att lämna:
 
-- Ditt hela namn
+- Ditt riktiga namn
 - Nuvarande e-postadress (rekommenderat)
 - Telefon- och mobilnummer
 - Fysisk adress
