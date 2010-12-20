@@ -124,4 +124,4 @@ an independent association.
 A version of this text is available through a [[material/leaflet.pdf][leaflet]], which you can print and
 use to spread the word.
 
-See the [[membership.en.org][membership]] page for more information about how to join. Warm Welcomes!
+See the [[file:medlemskap.en.org][membership]] page for more information about how to join. Warm Welcomes!
