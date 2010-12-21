@@ -118,10 +118,10 @@ clients and free their mailing.
 
 [[http://fellowship.se/][Fellowship of Free Software Foundation Europe (FSFE) Göteborg chapter's wiki-page]]
 
-Fripost started as a project within Göteborg Fellowship of FSFE, but is now is
-an independent association.
+Fripost started as a project within Göteborg Fellowship of FSFE, but is now an
+independent association.
 
-A version of this text is available through a [[material/leaflet.pdf][leaflet]], which you can print and
-use to spread the word.
+A version of this text is available as a [[file:material/leaflet.pdf][leaflet]], which you can print and use to
+spread the word.
 
 See the [[file:medlemskap.en.org][membership]] page for more information about how to join. Warm Welcomes!
