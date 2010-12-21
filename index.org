@@ -16,7 +16,7 @@ koncentreras makten alltmer i händerna på ett fåtal.  Många servrar och stor
 delar av nödvändig infrastruktur kontrolleras av några få, stora aktörer.
 Samtidigt blir fler och fler medvetna om hur Google och andra som levererar
 "gratis" e-post har gjort spioneri på sina användare till en mycket lönsam
-affär.  Vi är många som upplevt ett starkt obehag inför den här utvecklingen.
+affär.  Vi är många som upplever ett starkt obehag inför den här utvecklingen.
 
 Företagen driver givetvis på den här utvecklingen, men hittils har vi användare
 inte kunnat göra annat än att acceptera deras krav.  Vi har tittat på deras
