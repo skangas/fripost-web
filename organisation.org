@@ -97,4 +97,6 @@ Göteborgs wiki-sida]].  Fripost började som ett projekt inom den föreningen, 
 Det finns [[material/leaflet.pdf][ett flygblad]] som togs fram till FSCONS.  Det får du gärna skriva ut
 och sprida till andra.  Flygbladet är på engelska.
 
+Vår [[http://github.com/skangas/fripost-web][hemsida]] och [[https://github.com/skangas/fripost-docs][tekniska dokumentation]] finns tillgängligt i [[http://git-scm.com/][git-förråd]].
+
 Se [[file:medlemskap.org][medlemssidan]] för mer information om hur du kan gå med i Fripost.
