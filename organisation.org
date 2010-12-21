@@ -86,11 +86,17 @@ Vi grundade föreningen formellt efter mycket planering och förberedande.
 
 [[minutes/fripost-founding-2010-11-04.pdf][Protokoll från årsmötet 2010-11-04]]
 
+** Tidiga arbetsmöten
+
+- [[file:minutes/2010-10-28.txt][Anteckningar från arbetsmöte 2010-10-28]]
+- [[file:minutes/2010-10-07.txt][Anteckningar från arbetsmöte 2010-10-07]]
+- [[file:minutes/2010-06-21.txt][Anteckningar från arbetsmöte 2010-06-21]]
+
 #+HTML: <div class="divider"></div>
 
 * Övrigt
 
-Mer information kan du hitta på [[http://fellowship.se/][Fellowship of Free Software Foundation Europe
+Mer information kan du hitta på [[http://fellowship.se/wiki/Projekt/friepost/][Fellowship of Free Software Foundation Europe
 Göteborgs wiki-sida]].  Fripost började som ett projekt inom den föreningen, men
 är nu helt fristående.
 

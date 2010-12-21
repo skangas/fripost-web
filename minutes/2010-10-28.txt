@@ -1,0 +1,90 @@
+  October 28, 2010
+
+The meeting's agenda
+
+    * Technical status report and discussion
+    * Progression
+    * Budget and membership fee
+    * The participation in FSCONS 
+
+Participants
+
+Navid, Johan S. Stian, Stefan, Gustav och Jens.
+
+These notices were taken by Gustav.
+Technical discussions and conclusions
+
+The goal is to set up a network of five servers: two mail gateways relayed to
+one main IMAP (Internet Message Access Protocol) server, a server for backup,
+and one for keeping logs. The main IMAP server will be hosted at some dedicated
+hosting service but the others in closets among the members. The servers has to
+be set up with high redundancy in storage, RAID 5 or 6 (Redundant Array of
+Independent Disks).
+
+With this setup the association can receive e-mails with good reliability, but
+sending has to be solved through the members' ISP:s (Internet service Provider).
+
+The status is that a test system is on the way to be set up, and the software
+issues are solved one by one. Stefan and Gustav is working on this. All steps
+are well documented, and the documentation can be fetched from a git repository
+(to be announced). Examples of solved software issues are that SMTP (Simple Mail
+Transfer Protocol) though SSH-tunnel (Secure SHell) is better than NFS (Network
+File System) for to relaying e-mails, and that a MySQL database is to be used ad
+lookup table for what mail addresses we have, which simplifies bouncing.
+
+The server will not provide open relaying and not even user SMTP relaying.
+
+See The Teknik page for details.
+Public documentation
+
+There were suggestions about how to get documentation published, and the reasons
+are several. Setting up a mail server is not the easiest thing to do, and
+support is needed. For the association's idea to be spread, people must be
+taught how to do. Suggestions:
+
+  * Virtual machine
+  * Virtual packages for debian
+  * etc. 
+
+Philosophical background
+
+We refer to the declaration of principles for the philosophical background.
+
+Budget
+
+Some budget suggestions are to be seen on the budget page. The accepted budget
+for buying hardware and hire hosting is 15.000 SEK, and the membership fee were
+suggested to be 300 SEK. This means that the association needs 50 members to get
+started. The figures are finally accepted on the founding meeting (see bellow).
+Progression
+
+In a month or two the test system is expected to be set up.
+
+Expectations for FSCONS (Free Society Conference and Nordic Summit) are that we
+will have two concrete offers
+
+    * join now for 300 SEK, and expect a mail system in a couple of months, or
+    * a version for the reserved to join when we have enough members. 
+
+Gustav (mainly) and Stefan (as far as time admit) will also work out some
+promotion material.
+
+The domain name fripost.org will be reserved, and the possibility to buy
+fripost.se will be checked. The name of the association will be Fripost den fria
+e-postföreningen (translated Fripost the Free E-mail Association).
+
+An formation meeting, founding meeting, will be held November 4 at 18.00 in
+Gnutiken. On this meeting the following will be decided upon
+
+    * statues (by-laws)
+    * board
+    * approvals
+    * nominating committee
+    * membership fee
+    * budget
+    * annual meeting date. 
+
+Suggested date for annual meeting is February. Then also the declaration of
+principals will be accepted.  Next meeting November 4
+
+Next meeting, thus, November 4 at 18.00 in Gnutiken. 

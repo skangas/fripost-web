@@ -1,0 +1,36 @@
+7 oktober 2010
+
+Nedtecknade av Stefan Kangas.
+
+Use cases efterfrågades för att slippa ha ett 5 minuters tal varje gång.
+
+RAID-lösningar diskuterades. Idén är att köra två system med RAID-5 eller RAID-6
+på fyra eller fem diskar (beroende på vad som får plats i en unit). Idén är att
+sätta upp den ena på en trevlig hårdvaruraid i en seriös rackplats, och den
+andra som en spegling av detta system med en software raid typ hemma i någons
+garderob. Speglingen fungerar då som backup, och har identisk storlek och lika
+hög raid-redundans som huvudsystemet. I övrigt kör vi på donerad/lånad hårdvara.
+
+Nivåer på datasäkerhet diskuterades. Viktigt att ha realistiska förväntningar --
+vi är inte Google. Detta betyder inte att vi inte ska anstränga oss för att inte
+tappa data.
+
+Budget. Förslaget verkade lite lågt satt enligt allmän uppfattning.
+
+Kostnader: ljo kan fixa priset 500/månad = 6000 kr/år (inkl. moms) för en plats
+i ett 19"-rack. 5500 kr = 10 st. 1 TB 3.5" SATA-diskar om man beställer dem på
+nätet.
+
+Detta ger en *absolut* lägsta kostnad om 10.500 kronor för att få upp lite
+seriösa grejer. För att ge utrymme vill vi därför ha en budget på minst 15.000
+kr.
+
+Finansiering. Hur många medlemmar behövs? Olika sätt att få folk att intressera
+sig diskuterades. Möjlighet att teckna 3 års medlemskap? Möjlighet för
+stödmedlemskap?
+
+Ställen där man kan söka pengar: Internetstiftelsen, Nordisk kulturfond,
+NLNet.nl (mer osäkra: EU, ABF). Engångsbidrag bedömdes allmänt som ett
+acceptabelt undantag från föreningens princip om självfinansiering.
+
+Ny träff den 28 oktober 2010 på Gnutiken. 

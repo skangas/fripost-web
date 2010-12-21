@@ -1,0 +1,46 @@
+  21 juni 2010
+
+Deltagare: Gustav, Leif-Jöran, Stefan, Stian och Patrik.
+
+Dagordning.
+
+  * Ta fram en tidsplan
+  * Öppna en principiell diskussion
+  * Infrastruktur, hård- och mjukvara
+  * Föreningens geografiska utsträckning
+  * Finansiering, priser och kapacitet 
+
+Tidsplan. Det vore önskvärt att ta fram ett beprövat koncept att lansera under
+FSCONS i november 2010. I övrigt:
+
+  * Innan 30 juni: beslut angående om det finns något att presentera under FSCONS
+  * Juli och augusti: arbete med att sätta upp servrar och ta fram stadgar och
+    andra dokument
+  * Slutet av augusti: årsmöte
+  * November: presentation 
+
+Principer. Mötet diskuterade vilka ramverk som ska styra föreningen. Föreningen
+ska vara
+
+  * ekonomiskt självförsörjande,
+  * demokratiskt uppbyggd, med tillhörande begränsningar i den geografiska
+    utsträckningen,
+  * bygga sin struktur kring förtroende mellan medlemmar,
+  * om så kräver, bedriva civil olydnad vad gäller loggning av trafik etc. 
+
+allt i den personliga integritetens och egenkontrollens namn.
+
+Infrastruktur. Det viktigaste vad gäller e-post är tillförlitlighet. För oss
+innebär detta inga förluster. Distributionens hastighet är inte lika
+prioriterat. Spegling enligt Raid 5 är tillräckligt. SPAM-filter får användaren
+köra lokalt. IMAP-servrar har förhållandevis höga prestandakrav. MX-servrar ska
+var separata från IMAP-servrarna. Vi behöver också DNS-SEC och certifikat.
+
+Material och småsaker att ta fram. Något som behövs för att se föreningens plats
+i Internett-djungeln är en lista om fördelar och nackdelar och en lista på
+erfarenheter från andra leverantörer. Vi behöver också
+
+  * en statisk HTML-sida,
+  * en presentation av föreningen och dess idéer
+  * stadgar,
+  * konstituerande dokument och riktlinjer. 

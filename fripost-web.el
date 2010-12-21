@@ -42,7 +42,7 @@
 
         ("fripost-web-static"
          :base-directory ,default-directory
-         :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg"
+         :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|txt"
          :publishing-directory ,(concat default-directory "/publish/")
          :exclude "/publish/"
          :recursive t
