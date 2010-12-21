@@ -73,7 +73,7 @@ fick byta PGP-nycklar och intygas för cacert.
 
 Diskuterades bland annat antal begränsningar för e-postadresser, alias och egna domäner.
 
-- [[file:minutes/minutes/fripost-board-2010-11-17.pdf][Protokoll styrelsemöte 2010-11-17]]
+- [[file:minutes/fripost-board-2010-11-17.pdf][Protokoll styrelsemöte 2010-11-17]]
 
 ** 2010-11-07 Deltagande på FSCONS
 
@@ -84,7 +84,7 @@ Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
 
 Vi grundade föreningen formellt efter mycket planering och förberedande.
 
-- [[minutes/fripost-founding-2010-11-04.pdf][Protokoll från årsmötet 2010-11-04]]
+- [[file:minutes/fripost-founding-2010-11-04.pdf][Protokoll från årsmötet 2010-11-04]]
 
 ** Tidiga arbetsmöten
 
