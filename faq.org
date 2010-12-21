@@ -71,10 +71,22 @@ Så klart /kan/ du köpa en tjänst av ett privat företag.  Frågan är varför
 När du köper en tjänst av ett företag hamnar du i en väldigt speciell relation
 till dem: du blir deras kund.  Som kund har du svårt att påverka annat än genom
 att gå därifrån.  I bästa fall har deras användaravtal (som du kanske godkände
-för att få bli kund) inte några bestämmelser som säger att du äger din data.
+för att få bli kund) bestämmelser som ger dig kontrollen över din data.  Om du
+lämnar företaget har du emellertid sällan några garantier för att inte din
+information ligger och skräpar på deras servrar.  Företaget har inte något
+direkt intresse av att ta bort den.
 
-I få fall kan du vara helt säker på att inte din information ligger och skräp
+Som kund hos ett privat företag har du ingen egentlig makt över företaget.  Det
+är alltid företagets ägare som har sista ordet.
 
+Hos Fripost blir du medlem på lika villkor som alla andra.  Du har rätt att
+delta på föreningens årsmöten och där tala för din sak.  Tillsammans med andra
+kan du rösta bort eller rösta fram en viss ledning.  Eller avskaffa ledningen.
+Poängen är att du blir medlem och i Fripost är det medlemmarna som bestämmer.
+
+Frågan är också denna: Ett företag är en juridisk person som på ett eller annat
+sätt vill tjäna pengar på dig.  Fripost är en förening av likasinnade, av
+kamrater som brinner för integritetsfrågor.  Vem litar du mest på?
 
 #+HTML: <div class="divider"></div>
 
