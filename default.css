@@ -209,9 +209,9 @@ p.incitement
 { 
   color: #FFF;
   font-size: 0.8em;
-  position: absolute;
-  top: 10px;
-  left: 27.5%;
+  position: relative;
+  top: -170px;
+  left: -235px;
 }
 .header a.translate:hover
 { 
