@@ -73,7 +73,7 @@ fick byta PGP-nycklar och intygas för cacert.
 
 Diskuterades bland annat antal begränsningar för e-postadresser, alias och egna domäner.
 
-[[file:minutes/minutes/fripost-board-2010-11-17.pdf][Protokoll styrelsemöte 2010-11-17]]
+- [[file:minutes/minutes/fripost-board-2010-11-17.pdf][Protokoll styrelsemöte 2010-11-17]]
 
 ** 2010-11-07 Deltagande på FSCONS
 
@@ -84,7 +84,7 @@ Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
 
 Vi grundade föreningen formellt efter mycket planering och förberedande.
 
-[[minutes/fripost-founding-2010-11-04.pdf][Protokoll från årsmötet 2010-11-04]]
+- [[minutes/fripost-founding-2010-11-04.pdf][Protokoll från årsmötet 2010-11-04]]
 
 ** Tidiga arbetsmöten
 
@@ -100,7 +100,7 @@ Mer information kan du hitta på [[http://fellowship.se/wiki/Projekt/friepost/][
 Göteborgs wiki-sida]].  Fripost började som ett projekt inom den föreningen, men
 är nu helt fristående.
 
-Det finns [[material/leaflet.pdf][ett flygblad]] som togs fram till FSCONS.  Det får du gärna skriva ut
+Det finns [[file:material/leaflet.pdf][ett flygblad]] som togs fram till FSCONS.  Det får du gärna skriva ut
 och sprida till andra.  Flygbladet är på engelska.
 
 Vår [[http://github.com/skangas/fripost-web][hemsida]] och [[https://github.com/skangas/fripost-docs][tekniska dokumentation]] finns tillgängligt i [[http://git-scm.com/][git-förråd]].
