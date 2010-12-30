@@ -3,7 +3,7 @@
 (setq org-publish-project-alist
       `(
         ("fripost-web-pages"
-         :base-directory ,default-directory
+         :base-directory ,(concat default-directory "/site/")
          :base-extension "org"
          :publishing-directory ,(concat default-directory "/publish/")
          :exclude "/publish/"
@@ -41,7 +41,7 @@
          )
 
         ("fripost-web-static"
-         :base-directory ,default-directory
+         :base-directory ,(concat default-directory "/site/")
          :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|txt"
          :publishing-directory ,(concat default-directory "/publish/")
          :exclude "/publish/"
@@ -51,5 +51,7 @@
 
         ("fripost-web" :components ("fripost-web-pages" "fripost-web-static"))
       ))
+
+(provide 'fripost-web)
 
 ;; M-x org-publish-project RET fripost-web
