@@ -1,19 +1,40 @@
 #+TITLE:     Bli medlem i Fripost
 #+SETUPFILE: includes/level-0.org
 
+#+BEGIN_HTML
+	<!-- jsProgressBarHandler prerequisites : prototype.js -->
+	<script type="text/javascript" src="js/prototype/prototype.js"></script>
+
+	<!-- jsProgressBarHandler core -->
+	<script type="text/javascript" src="js/bramus/jsProgressBarHandler.js"></script>
+
+<div class="square">
+<h1>Medlemsräknare</h1>
+
+<p>9 av 50 medlemmar<br />
+<span class="progressBar" id="element1">18%</span></p>
+
+<p>För att komma igång ordentligt måste vi få ihop 15&nbsp;000 kronor, alltså 50
+medlemmar. Här räknar vi bara folk som har betalat medlemsavgiften. Det är många
+som har sagt att de absolut ska gå med, men väntar på nästa löning eller
+liknande. Är du en av dem? Dags att gå till handling! :-)
+</p>
+</div>
+#+END_HTML
+
 För att gå med i Fripost, betala medlemsavgiften (300 kronor) och skicka ett
 mail med din information enligt nedan.  Din information kan du skicka till
-Stefan Kangas på [[mailto:skangas@skangas.se][skangas@skangas.se]] (om du vill kan du kryptera informationen
-till PGP-nyckel 0x8F4353EE).
+Stefan Kangas på [[mailto:skangas@skangas.se][skangas@skangas.se]].
 
-#+HTML: <div class="divider"></div>
+Om du vill och vet hur man gör så kan du kryptera din information till
+PGP-nyckel 0x8F4353EE.
 
 ** Medlemskapet
 
 Som medlem får man:
 
 - En e-postadress, en inkorg och möjlighet till ett extra alias på fripost.org
-- Möjlighet att associera en av dina egna domäner till våra e-postservrar
+- Möjlighet att koppla en av dina egna domäner till våra e-postservrar
 - Ett obegränsat antal alias på din egen domän
 
 #+HTML: <div class="divider"></div>
@@ -65,10 +86,10 @@ kravet är att du bor här.
 
 #+HTML: <div class="divider"></div>
 
+# << ovrigt >>
 ** Övrigt
 
 För att få igång vår e-posttjänst ordentligt måste vi nå ett tillräckligt antal
 medlemmar.  Lägsta beloppet vi behöver är runt 15 000 kronor. Med en
 medlemsavgift på 300 kronor behöver vi alltså 50 medlemmar innan vi kan komma
-igång på allvar.  Med din hjälp är det inga problem.
-
+igång på allvar.  Med din hjälp är det inga problem. [[file:faq.html#dyrt][Läs mer här!]]

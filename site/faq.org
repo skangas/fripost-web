@@ -22,6 +22,36 @@ redan i april samma år.
 
 #+HTML: <div class="divider"></div>
 
+# << dyrt >>
+
+** Varför är det så dyrt att gå med?
+
+Medlemsavgiften är bestämd av årsmötet till 300 kronor per år.
+
+Fripost använder för närvarande uteslutande hårdvara och internetuppkoppling som
+solidariska medlemmar donerat eller lånat ut. Det kommer vi fortsätta göra. Men
+för att kunna bygga en bra lösning för e-post måste vissa grejer köpas in som
+helt enkelt är för dyra för att någon enskild ska kunna donera dem. Innan vi
+gjort dessa inköp kan vi inte nå den tillförlitlighet som är nödvändig för
+någonting så viktigt som e-post. De största utgiftsposterna är lagringsutrymme
+till våra e-brev och säkerhetskopior samt kostnad för riktigt bra hostning för
+en huvudserver.
+
+Hur mycket det kommer att kosta att vara med i framtiden vet vi inte.  Det beror
+bland annat på hur många vi lyckas rekrytera: det borde vara lättare att sänka
+medlemsavgiften om vi är fler som delar på kostnaderna. Ett sådant beslut fattas
+på föreningens årsmöte dit du som medlem är välkommen att komma och göra din
+röst hörd.
+
+Det är inte heller gratis att stå utanför Fripost. Företag och stater kartlägger
+din kommunikation, sparar informationen kanske för alltid och utnyttjar den till
+riktad marknadsföring idag och vem vet vad imorgon. Detta är vad deras så
+kalllade gratistjänster erbjuder.
+
+Sett i det perspektivet tycker vi att 300 kronor är ett lågt pris för frihet.
+
+#+HTML: <div class="divider"></div>
+
 ** Hur långt har ni kommit?
 
 För närvarande (december 2010) har föreningen två huvudprioriteringar:
@@ -37,6 +67,11 @@ kommer vi alltså igång "på riktigt".
 
 Det finns med andra ord ingen anledning att tveka \ndash det är nu man ska gå
 med.  Ju förr just du går med desto snabbare kommer vi igång på allvar.
+
+På sidan [[file:medlemskap.org][bli medlem]] finns en uppdaterad räknare över det totala antalet
+betalande medlemmar. Där räknar vi inte några löften om betalningar utan bara de
+som faktiskt gett oss kontanter eller betalat till kontot. Det egentliga antalet
+är alltså högre.
 
 #+HTML: <div class="divider"></div>
 
