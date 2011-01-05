@@ -38,6 +38,11 @@
          :auto-postamble nil
          :headline-levels 4             ; Just the default for this project.
          :auto-preamble t
+
+         ;; sitemap
+         :auto-index t ; remove with newer org-mode
+         :index-title "Sitemap for fripost.org"
+         :auto-sitemap t
          )
 
         ("fripost-web-static"
