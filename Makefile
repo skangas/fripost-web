@@ -1,12 +1,6 @@
 EMACS=emacs -q --no-site-file
 
-usage:
-	@echo "usage: make fripost-web will publish the site to publish/"
-	@echo "       make usage displays this message."
-	@echo
-
-all:
-	make fripost-web
+all:	fripost-web
 
 fripost-web:
 	$(EMACS) -batch -L . \
