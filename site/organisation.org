@@ -60,6 +60,15 @@ samtliga system.
 
 * Mötesrapporter och protokoll
 
+** 2010-01-10 Styrelsemöte
+
+Diskussioner framför allt om föreningens ekonomi och servrar. Beslut att köpa in
+två stycken externa 2TB USB-hårddiskar till säkerhetskopior och att vi under
+nästa vecka försöker få igång den av Leif-Jöran utlånade RAID-arrayen. Denna ska
+fungera som huvudsaklig IMAP tills vidare.
+
+/Protokoll kommer snart.../
+
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
 Styrelsen träffades som hastigast innan mötet för att diskutera arbetet. Fokus
