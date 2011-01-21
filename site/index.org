@@ -5,9 +5,9 @@
 <div class="square">
 <h1>Nästa möte</h1>
 
-<p>Styrelsemöte Onsdag 26 januari 2011 klockan 18:00 på <a
-href="gnutiken.html">Gnutiken</a>.</p>
-</div>
+<p>Styrelsemöte onsdag 26 januari 2011 klockan 18:00 på <a
+href="gnutiken.html">Gnutiken</a>. <a
+href="https://wiki.fripost.org/moten/2011-01-26/">Läs mer.</a></p> </div>
 #+END_HTML
 
 Teknologi är inte och har aldrig varit någonting neutralt.  På Internet
