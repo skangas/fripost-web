@@ -24,6 +24,12 @@ eller är oklart, tveka inte att [[file:kontakt.org][höra av dig]] till oss med
 
 #+HTML: <div class="divider"></div>
 
+* Stadgar
+
+Föreningen antog stadgar vid årsmötet 2010 (se nedan). Du kan hitta stadgarna [[file:material/stadgar2010.pdf][här]]. 
+
+#+HTML: <div class="divider"></div>
+
 * Styrelsen
 
 ** Styrelsens uppgifter
