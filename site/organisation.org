@@ -84,6 +84,8 @@ under hela jullovet. Tahoe Filesystem diskuterades.
 Leif-Jöran berättade om kryptering och signering av e-post och alla som ville
 fick byta PGP-nycklar och intygas för cacert.
 
+- [[file:minutes/2010-12-09-board-notes.pdf][Anteckningar, styrelsemöte 2010-12-09]]
+
 ** 2010-11-17 Styrelsemöte
 
 Diskuterades bland annat antal begränsningar för e-postadresser, alias och egna domäner.
