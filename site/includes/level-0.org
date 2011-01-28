@@ -1,6 +1,6 @@
 #+AUTHOR:    Fripost -- föreningen för fri e-post
 #+EMAIL:     info@fripost.org
-#+DESCRIPTION: Fripost, föreningen för fri e-post organiserar alla som vill ha ett alternativ till &quot;gratis&quot; e-posttjänster där man ständigt är övervakad och utlämnad till någon annan.
+#+DESCRIPTION: Fripost är föreningen för alla som vill ha ett alternativ till &quot;gratis&quot; e-posttjänster där man ständigt är övervakad och utlämnad till en leverantörs godtycke.
 #+KEYWORDS: fripost, fri e-post, fri kommunikation, epost, e-posttjänst, gratis e-post, demokrati, yttrandefrihet, frihet
 #+TEXT:      
 #+LANGUAGE:  sv
