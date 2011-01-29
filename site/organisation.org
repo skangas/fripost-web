@@ -81,7 +81,7 @@ två stycken externa 2TB USB-hårddiskar till säkerhetskopior och att vi under
 nästa vecka försöker få igång den av Leif-Jöran utlånade RAID-arrayen. Denna ska
 fungera som huvudsaklig IMAP tills vidare.
 
-/Protokoll kommer snart.../
+- [[file:minutes/2011-01-10-board.pdf][Protokoll styrelsemöte 2011-01-10]]
 
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
@@ -92,7 +92,7 @@ under hela jullovet. Tahoe Filesystem diskuterades.
 Leif-Jöran berättade om kryptering och signering av e-post och alla som ville
 fick byta PGP-nycklar och intygas för cacert.
 
-- [[file:minutes/2010-12-09-board-notes.pdf][Anteckningar, styrelsemöte 2010-12-09]]
+- [[file:minutes/2010-12-09-board-notes.pdf][Anteckningar styrelsemöte 2010-12-09]]
 
 ** 2010-11-17 Styrelsemöte
 
