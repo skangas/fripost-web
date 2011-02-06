@@ -66,6 +66,11 @@ samtliga system.
 
 * Mötesrapporter och protokoll
 
+** 2011-02-03 Styrelsemöte
+
+På grund av sjukdom blev det inget formellt möte.  Istället gick vi igenom och
+diskuterade vissa detaljer i e-postsystemet.
+
 ** 2011-01-26 Styrelsemöte
 
 /Protokoll kommer snart.../
