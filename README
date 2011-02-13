@@ -7,7 +7,7 @@ Use make to compile the page and copy it to fripost.org
   # compilation
   $ make 
 
-  # pulication
+  # publication
   $ make send
 
 This is the standard project workflow
@@ -30,7 +30,7 @@ These are the repositories to check for changes
     - ssh://repo.or.cz/srv/git/fripost-web.git
     - git://github.com/skangas/fripost-web.git
 
-To get push access to the repository at repo, send an email to Gustav (see contact below)
+To get push access to the repository at repo, get an account, and send an email to Gustav (see contact below)
 
 (C) Copyright cc-by-sa 2010-2011 Gustav Eek <gustaveek@student.gu.se> and Stefan Kangas.
 
