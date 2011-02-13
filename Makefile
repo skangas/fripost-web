@@ -12,7 +12,7 @@ fripost-web: # creates home page
 	find publish -name "*~" -delete
 
 send: # sends to fripost.org for publication
-	rsync -ruvp publish/ fripost@fripost.org/fripost.org/
+	rsync -ruvp publish/ fripost@fripost.org:fripost.org/
 
 clean:
 	rm *~*; rm test test.d/test; rmdir test.d

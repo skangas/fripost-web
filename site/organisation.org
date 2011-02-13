@@ -66,13 +66,19 @@ samtliga system.
 
 * Mötesrapporter och protokoll
 
+** 2011-02-13 Styrelsemöte
+
+Mötets syfte var att diskutera Friposts fest 12 mars. Formen var informell.
+
+ - [[file:minutes/2011-02-13-board-notes.pdf][Anteckningar styrelsemöte 13 februari 2011]]
+
 ** 2011-01-26 Styrelsemöte
 
 /Protokoll kommer snart.../
 
 ** 2011-01-20 Styrelsemöte
 
-- [[file:minutes/2011-01-20-board.pdf][Protokoll styrelsemöte 2011-01-20]]
+ - [[file:minutes/2011-01-20-board.pdf][Protokoll styrelsemöte 2011-01-20]]
 
 ** 2011-01-10 Styrelsemöte
 
@@ -81,7 +87,7 @@ två stycken externa 2TB USB-hårddiskar till säkerhetskopior och att vi under
 nästa vecka försöker få igång den av Leif-Jöran utlånade RAID-arrayen. Denna ska
 fungera som huvudsaklig IMAP tills vidare.
 
-/Protokoll kommer snart.../
+ - [[file:minutes/2011-01-10-board.pdf][Protokoll styrelsemöte 2011-01-10]]
 
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
