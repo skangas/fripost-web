@@ -20,6 +20,18 @@ This is the standard project workflow
      - Perform an ocular check on fripost.org
  5. Push changes to your repository
 
-(C) Copyright cc-by-sa 2010-2011 Gustav Eek and Stefan Kangas.
+These are the repositories to check for changes
+
+ - Fetch URL:s
+    - git://repo.or.cz/fripost-web.git
+    - http://repo.or.cz/r/fripost-web.git
+    - git://github.com/skangas/fripost-web.git
+ - Push URL:s
+    - ssh://repo.or.cz/srv/git/fripost-web.git
+    - git://github.com/skangas/fripost-web.git
+
+To get push access to the repository at repo, send an email to Gustav (see contact below)
+
+(C) Copyright cc-by-sa 2010-2011 Gustav Eek <gustaveek@student.gu.se> and Stefan Kangas.
 
 You are free to use, change and redistribute this source according to the terms defined by Creative Commons Licence 3.0 Contribution Share Alike. 
