@@ -1,3 +1,25 @@
 This repository contains the website of Fripost.
 
 http://fripost.org/
+
+Use make to compile the page and copy it to fripost.org
+
+  # compilation
+  $ make 
+
+  # pulication
+  $ make send
+
+This is the standard project workflow
+
+ 1. Pull all repositories (ask Gustav and Stefan)
+ 2. Perform local changes
+     - One change, one commit
+ 3. Compile and check ocularly locally through web browser
+ 4. Send to fripost.org
+     - Perform an ocular check on fripost.org
+ 5. Push changes to your repository
+
+(C) Copyright cc-by-sa 2010-2011 Gustav Eek and Stefan Kangas.
+
+You are free to use, change and redistribute this source according to the terms defined by Creative Commons Licence 3.0 Contribution Share Alike. 
