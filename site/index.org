@@ -4,10 +4,10 @@
 #+BEGIN_HTML
 <div class="square">
 <h1>Uppstartsfest</h1>
-<p>Lördag 12 mars 2011 kl 14--22, Gnutiken. Mer info följer.
+<p>Lördag 12 mars 2011 kl 14--22, Gnutiken. <it>Mer info kommer.</it>
 </p>
 <h1>Nästa möte</h1>
-<p>Styrelsemöte söndag 13 februari 2011 kl 17:00, <a href="gnutiken.html">Gnutiken</a>.
+<p>Styrelsemöte söndag 20 februari 2011 kl 16:00, <a href="gnutiken.html">Gnutiken</a>.
 </p>
 </div>
 #+END_HTML
