@@ -20,7 +20,27 @@ sparar vi med ett versionshanteringssystem.  Det gör det enkelt för den som vi
 (och kan) att följa administratörernas arbete på nära håll.
 
 På den här sidan hittar du mer information om föreningen. Om någonting saknas
-eller är oklart, tveka inte att [[file:kontakt.org][höra av dig]] till oss med dina synpunkter.
+eller är oklart, tveka inte att [[file:kontakt.org][höra av dig ]] oss med dina synpunkter.
+
+#+HTML: <a name="fest"><div class="divider"></div></a>
+
+* Friposts första fest
+
+
+Fripost inviger stolt uppstarten och bjuder till fest: "Friposts första fest", eller "FFFFEFFF, Fripost, föreningen för fri e-posts, första fria fest".
+
+- Dag: lördag 12:e mars
+- Plats: [[file:gnutiken.org][Gnutiken]] Övre Husargatan 27, Göteborg (vid Linnéplatsen)
+- Aktivitetsschema:
+
+   | 14:00 | Filmvisning: /The Conversation/ (Coppola,1974)          |
+   | 16:30 | Presentation av föreningen (Stefan Kangas, ordförande)  |
+   | 18:00 | Workshop: "Lär dig kryptera e-post" (Stian Rødven Eide) |
+   | 19:00 | Fest                                                    |
+
+Festen är öppen för alla. Fripost säljer soppa, kakor, te och kaffe.
+
+[[file:index.org][Till startsidan]]
 
 #+HTML: <div class="divider"></div>
 
