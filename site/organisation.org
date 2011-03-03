@@ -122,7 +122,7 @@ två stycken externa 2TB USB-hårddiskar till säkerhetskopior och att vi under
 nästa vecka försöker få igång den av Leif-Jöran utlånade RAID-arrayen. Denna ska
 fungera som huvudsaklig IMAP tills vidare.
 
- - [[file:minutes/2011-01-10-board.pdf][Protokoll styrelsemöte 2011-01-10]
+ - [[file:minutes/2011-01-10-board.pdf][Protokoll styrelsemöte 2011-01-10]]
 
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
