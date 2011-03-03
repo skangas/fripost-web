@@ -11,8 +11,8 @@
 <div class="square">
 <h1>Medlemsräknare</h1>
 
-<p>18 av 50 medlemmar<br />
-<span class="progressBar" id="element1">36%</span></p>
+<p>21 av 50 medlemmar<br />
+<span class="progressBar" id="element1">42%</span></p>
 
 <p>För att komma igång ordentligt måste vi få ihop 15&nbsp;000 kronor, alltså 50
 medlemmar. Här räknar vi bara folk som har betalat medlemsavgiften. Det är många
