@@ -43,6 +43,8 @@ Festen är öppen för alla. Fripost säljer soppa, kakor, te och kaffe.
  - Skriv ut och sprid [[file:material/affisch-12-mars.pdf][festens affisch]]
  - Mer information på [[http://wiki.fripost.org/fest_12_mars][Friposts wiki]]
 
+/Folk har frågat, så för att vara tydliga gäller följande: Fripost serverar inga övriga eller alkoholhaltiga drycker, men det står besökarna fritt att ta med egen dryck./
+
 [[file:index.org][Till startsidan]]
 
 #+HTML: <div class="divider"></div>
