@@ -20,13 +20,38 @@ sparar vi med ett versionshanteringssystem.  Det gör det enkelt för den som vi
 (och kan) att följa administratörernas arbete på nära håll.
 
 På den här sidan hittar du mer information om föreningen. Om någonting saknas
-eller är oklart, tveka inte att [[file:kontakt.org][höra av dig]] till oss med dina synpunkter.
+eller är oklart, tveka inte att [[file:kontakt.org][höra av dig ]] oss med dina synpunkter.
+
+#+HTML: <a name="fest"><div class="divider"></div></a>
+
+* Friposts första fest
+
+
+Fripost inviger stolt uppstarten och bjuder till fest: "Friposts första fest", eller "FFFFEFFF, Fripost, föreningen för fri e-posts, första fria fest".
+
+- Dag: lördag 12:e mars
+- Plats: [[file:gnutiken.org][Gnutiken]] Övre Husargatan 27, Göteborg (vid Linnéplatsen)
+- Aktivitetsschema:
+
+   | 14:00 | Filmvisning: /The Conversation/ (Coppola,1974)          |
+   | 16:30 | Presentation av föreningen (Stefan Kangas, ordförande)  |
+   | 18:00 | Workshop: "Lär dig kryptera e-post" (Stian Rødven Eide) |
+   | 19:00 | Fest                                                    |
+
+Festen är öppen för alla. Fripost säljer soppa, kakor, te och kaffe.
+
+ - Skriv ut och sprid [[file:material/affisch-12-mars.pdf][festens affisch]]
+ - Mer information på [[http://wiki.fripost.org/fest_12_mars][Friposts wiki]]
+
+[[file:index.org][Till startsidan]]
 
 #+HTML: <div class="divider"></div>
 
 * Stadgar
 
-Föreningen antog stadgar vid årsmötet 2010 (se nedan). Du kan hitta stadgarna [[file:material/stadgar2010.pdf][här]]. 
+Föreningen antog stadgar vid årsmötet 2010 (se nedan). Du kan hitta stadgarna [[file:material/stadgar2010.pdf][här]].
+
+ - [[file:material/stadgar2010.pdf][Fripost stadgar sedan november 2010]]
 
 #+HTML: <div class="divider"></div>
 
@@ -65,13 +90,11 @@ samtliga system.
 #+HTML: <div class="divider"></div>
 
 * Mötesrapporter och protokoll
-
 ** 2011-02-20 Styrelsemöte
 
 Mötet diskuterade åter mestadels Friposts fest 12 mars. Bl.a. budgeterades 300 kr till att trycka affischer. Festens totala budget är 730 kr, men föreningen räknar med ekonomiskt stöd och med inkomster under festen, så att den bringar pengar in i föreningens kassa. 
 
  - [[file:minutes/2011-02-20-board.pdf][Protokoll styrelsemöte 20 februari 2011]]
-
 
 ** 2011-02-13 Styrelsemöte
 
