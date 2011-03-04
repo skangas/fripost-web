@@ -20,7 +20,7 @@ sparar vi med ett versionshanteringssystem.  Det gör det enkelt för den som vi
 (och kan) att följa administratörernas arbete på nära håll.
 
 På den här sidan hittar du mer information om föreningen. Om någonting saknas
-eller är oklart, tveka inte att [[file:kontakt.org][höra av dig ]] oss med dina synpunkter.
+eller är oklart, tveka inte att [[file:kontakt.org][höra av dig]] till oss med dina synpunkter.
 
 #+HTML: <a name="fest"><div class="divider"></div></a>
 
