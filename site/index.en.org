@@ -54,7 +54,7 @@ information to third party.
 
 Fripost was founded in order to take back a small, but important, part of our
 Internet life, namely the email communication infrastructure. We gather around
-several servers that receive and stores the memabers' email. The reliability of
+several servers that receive and stores the members' email. The reliability of
 the service is of course of great importance.
 
 
