@@ -22,7 +22,23 @@ redan i april samma år.
 
 #+HTML: <div class="divider"></div>
 
+** Hur långt har ni kommit?
+
+Våra system används varje dag av Friposts medlemmar. Vår webmail finns [[https://mail.fripost.org/][här]], och
+den som är nyfiken kan hitta skärmdumpar [[http://roundcube.net/screens/][här]].
+
+Vi satsar just nu på att rekrytera fler medlemmar för att skapa ekonomiska
+möjligheter att öka systemets stabilitet och tillförlitlighet.
+
+Det finns ingen anledning att tveka längre \ndash det är dags att gå med.
+
+På sidan [[file:medlemskap.org][bli medlem]] finns en räknare över antalet medlemmar. Där räknar vi inte
+några löften om betalningar utan bara de medlemmar där betalningen är helt
+bekräftad. Det egentliga antalet torde alltså vara högre.
+
 # << dyrt >>
+
+#+HTML: <div class="divider"></div>
 
 ** Varför är det så dyrt att gå med?
 
@@ -49,29 +65,6 @@ riktad marknadsföring idag och vem vet vad imorgon. Detta är vad deras så
 kalllade gratistjänster erbjuder.
 
 Sett i det perspektivet tycker vi att 300 kronor är ett lågt pris för frihet.
-
-#+HTML: <div class="divider"></div>
-
-** Hur långt har ni kommit?
-
-För närvarande (december 2010) har föreningen två huvudprioriteringar:
-
-- Rekrytera fler medlemmar
-- Bygga testsystem
-
-Byggandet av testsystemet innebär i korthet att vi håller på att bygga upp en
-fungerande e-posttjänst sådan vi vill ha den, men utan att ha den nödvändiga
-tekniska utrustningen.  När vi sedan fått tillräckligt många medlemmar \ndash
-och därmed pengar \ndash ska vi köpa den utrustning som behövs.  Först då
-kommer vi alltså igång "på riktigt".
-
-Det finns med andra ord ingen anledning att tveka \ndash det är nu man ska gå
-med.  Ju förr just du går med desto snabbare kommer vi igång på allvar.
-
-På sidan [[file:medlemskap.org][bli medlem]] finns en uppdaterad räknare över det totala antalet
-betalande medlemmar. Där räknar vi inte några löften om betalningar utan bara de
-som faktiskt gett oss kontanter eller betalat till kontot. Det egentliga antalet
-är alltså högre.
 
 #+HTML: <div class="divider"></div>
 
@@ -148,3 +141,4 @@ Nej. Vi hoppas att folk kopierar vårt koncept och bygger demokratiskt
 kontrollerad infrastruktur för e-post och allt annat. Helst skulle vi se att det
 fanns en Folkets tekniska infrastrukturkommitté i varje kvarter, men än så
 länge...
+
