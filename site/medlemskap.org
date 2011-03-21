@@ -71,10 +71,6 @@ välja att lämna:
 - Fysisk adress
 - Om du vill gå med i e-postlistan
 
-E-postlistan för medlemmar är den huvudsakliga informationskanalen inom
-föreningen.  Medlemmar läggs inte till automatiskt, utan du måste uttryckligen
-säga till att du vill gå med.
-
 #+HTML: <div class="divider"></div>
 
 ** Krav för medlemskap 
