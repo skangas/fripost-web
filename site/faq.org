@@ -1,10 +1,12 @@
 #+TITLE:     Vanliga frågor om Fripost
 #+SETUPFILE: includes/level-0.org
-#+OPTIONS:   toc:t
+#+OPTIONS:   toc:t num:t
 
 #+HTML: <div class="divider"></div>
 
-** Vad är fria e-postföreningen?
+** Allmänt om Föreningen
+
+*** Vad är fria e-postföreningen?
 
 Vi är en grupp som organiserat oss för att försvara våra intressen i en
 alltmer digitaliserad värld. Detta genom att sätta igång en autonom och tekniskt
@@ -12,17 +14,30 @@ riktig infrastruktur för e-post.
 
 Vi vill ta tillbaka makten över vår information och vårt privatliv.
 
-#+HTML: <div class="divider"></div>
-
-** När bildades föreningen?
+*** När bildades föreningen?
 
 Föreningen bildades formellt den 4 november 2010, men redan innan dess pågick
 förberedelser, diskussion och planering.  Idén att starta föreningen väcktes
 redan i april samma år.
 
+*** Var är föreningens säte?
+
+Föreningen har sitt säte i Göteborg.
+
+*** Vem kan gå med?
+
+Det enda kravet för medlemskap är att man bor i Sverige.
+
+Meningen med begränsningen är att det måste vara möjligt för medlemmar,
+åtminstone i teorin, att delta på ett årsmöte.  Det är väldigt svårt att delta i
+föreningen om man bor i ett helt annat land.  Om någon från Italien vill gå med
+är det till större nytta om hon startar en egen förening för alla italienare.
+
 #+HTML: <div class="divider"></div>
 
-** Hur långt har ni kommit?
+** Vårt arbete
+
+*** Hur långt har ni kommit?
 
 Våra system används varje dag av Friposts medlemmar. Vår webmail finns [[https://mail.fripost.org/][här]], och
 den som är nyfiken kan hitta skärmdumpar [[http://roundcube.net/screens/][här]].
@@ -38,9 +53,7 @@ bekräftad. Det egentliga antalet torde alltså vara högre.
 
 # << dyrt >>
 
-#+HTML: <div class="divider"></div>
-
-** Varför är det så dyrt att gå med?
+*** Varför är det så dyrt att gå med?
 
 Medlemsavgiften är bestämd av årsmötet till 300 kronor per år.
 
@@ -68,7 +81,9 @@ Sett i det perspektivet tycker vi att 300 kronor är ett lågt pris för frihet.
 
 #+HTML: <div class="divider"></div>
 
-** Hur skiljer ni er från andra e-postleverantörer?
+** Skillnaden mellan oss och andra
+
+*** Hur skiljer ni er från andra e-postleverantörer?
 
 Vi är ingen e-postleverantör!  Vi är en förening som förvisso råkar
 tillhandahålla just e-posttjänster till sina medlemmar, men det är fel att tänka
@@ -90,9 +105,7 @@ Om du ändå vill ha en lista, här är den:
   gemensamt, fattar viktiga beslut och stakar ut den riktning vi ska gå i
   framtiden.
 
-#+HTML: <div class="divider"></div>
-
-** Jag har hört om företaget X, Y eller Z som säljer "integritetssäkrad" e-post.  Kan jag inte bara köpa deras tjänst?
+*** Jag har hört om företaget X, Y eller Z som säljer "integritetssäkrad" e-post.  Kan jag inte bara köpa deras tjänst?
 
 Så klart /kan/ du köpa en tjänst av ett privat företag.  Frågan är varför du skulle vilja det.
 
@@ -118,24 +131,9 @@ kamrater som brinner för integritetsfrågor.  Vem litar du mest på?
 
 #+HTML: <div class="divider"></div>
 
-** Var är föreningens säte?
+** Våra mål
 
-Föreningen har sitt säte i Göteborg.
-
-#+HTML: <div class="divider"></div>
-
-** Vem kan gå med?
-
-Det enda kravet för medlemskap är att man bor i Sverige.
-
-Meningen med begränsningen är att det måste vara möjligt för medlemmar,
-åtminstone i teorin, att delta på ett årsmöte.  Det är väldigt svårt att delta i
-föreningen om man bor i ett helt annat land.  Om någon från Italien vill gå med
-är det till större nytta om hon startar en egen förening för alla italienare.
-
-#+HTML: <div class="divider"></div>
-
-** Strävar ni efter världsdominans?
+*** Strävar ni efter världsdominans?
 
 Nej. Vi hoppas att folk kopierar vårt koncept och bygger demokratiskt
 kontrollerad infrastruktur för e-post och allt annat. Helst skulle vi se att det
