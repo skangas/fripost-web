@@ -14,16 +14,15 @@
 <p>27 av 50 medlemmar<br />
 <span class="progressBar" id="element1">54%</span></p>
 
-<p>För att komma igång ordentligt måste vi få ihop 15&nbsp;000 kronor, alltså 50
-medlemmar. Här räknar vi bara folk som har betalat medlemsavgiften. Det är många
-som har sagt att de absolut ska gå med, men väntar på nästa löning eller
-liknande. Är du en av dem? Dags att gå till handling! :-)
-</p>
-</div>
+<p>Vårt mål för första året är att få ihop 50 medlemmar, då medlemsavgifterna
+ger en ekonomisk lägsta nivå för att säkra föreningens stabilitet. Här räknar vi
+bara folk som har betalat medlemsavgiften. Det är många som har sagt att de
+absolut ska gå med, men väntar på nästa löning eller liknande. Är du en av dem?
+Dags att gå till handling! :-) </p> </div>
 #+END_HTML
 
-För att gå med i Fripost, betala medlemsavgiften (300 kronor) och skicka ett
-mail med din information enligt nedan.  Din information kan du skicka till
+För att gå med i Fripost, betala medlemsavgiften (300 kronor per år) och skicka
+ett mail med din information enligt nedan.  Din information kan du skicka till
 Stefan Kangas på [[mailto:skangas@skangas.se][skangas@skangas.se]].
 
 Om du vill och vet hur man gör så kan du kryptera din information till
@@ -71,10 +70,6 @@ välja att lämna:
 - Telefon- och mobilnummer
 - Fysisk adress
 - Om du vill gå med i e-postlistan
-
-E-postlistan för medlemmar är den huvudsakliga informationskanalen inom
-föreningen.  Medlemmar läggs inte till automatiskt, utan du måste uttryckligen
-säga till att du vill gå med.
 
 #+HTML: <div class="divider"></div>
 

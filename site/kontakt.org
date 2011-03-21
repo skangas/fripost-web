@@ -1,19 +1,25 @@
 #+TITLE:     Kontakta Fripost
 #+SETUPFILE: includes/level-0.org
 
-Om du vill kontakta oss, skicka ett e-brev till vår ordförande Stefan Kangas på [[mailto:skangas@skangas.se][skangas@skangas.se]].
+Om du vill kontakta oss, skicka ett e-brev till vår ordförande Stefan Kangas på
+[[mailto:skangas@skangas.se][skangas@skangas.se]].
 
 #+HTML: <div class="divider"></div>
 
-** E-postlista
+** E-postlistor
 
-Internt använder vi vår e-postlista för att kommunicera.  Om du är medlem men
-ännu inte med på listan är det bara att höra av dig för att bli tillagd.
+Listan members@lists.fripost.org används för att koordinera arbete inom
+föreningen och är ett bra sätt att involvera sig och påverka. Ingen läggs inte
+till automatiskt på listan, utan du måste uttryckligen säga till att du vill gå
+med.
 
-E-postlistan är öppen för alla medlemmar och deltagande är helt frivilligt.
+Vi har även en modererad lista announce@lists.fripost.org som används för
+medlemsutskick. Alla nya konton på fripost.org läggs till automatiskt.
+
+E-postlistorna är öppna för alla medlemmar och deltagande är helt frivilligt.
 
 #+HTML: <div class="divider"></div>
 
 ** IRC
 
-Om du använder [[http://sv.wikipedia.org/wiki/IRC][IRC]] kanske du vill gå med i kanalen #fripost på freenode.net.
+Om du använder [[http://sv.wikipedia.org/wiki/IRC][IRC]] kan du gå med i kanalen #fripost på Freenode.
