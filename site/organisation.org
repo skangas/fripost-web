@@ -83,9 +83,9 @@ samtliga system.
 
 * Händelser (events)
 
-  Att driva e-post kommunikation är ett av Fripoståtaganden, men inte det ända...
+Att driva e-postkommunikation är ett av Friposts åtaganden, men inte det enda.
 
-  Med syfte att sprida information om nätfrihet och engagera fler personer annordnar Fripost också flera aktiviteter. 
+För att sprida information om nätfrihet och engagera fler personer annordnar vi också en rad olika aktiviteter.
 
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
