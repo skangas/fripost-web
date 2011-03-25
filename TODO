@@ -1,21 +1,18 @@
 ;; -*- mode: org -*-
 
-
-
 * Content 
-** Move Meeting information to the wiki
+** DONE Move Meeting information to the wiki
+   CLOSED: [2011-03-25 fre 16:39]
 ** Add explanation of the systems we are building
 ** Add "participate" page where suggestions are given on member activities
 ** English/Swedish "icons" for changing languages
 ** Graphical material?
 ** Work out better structure of website
-
-
 * Technical/infrastructure
 ** How are we to handle translations?
-
 * Wiki
-** Move meeting information here
+** DONE Move meeting information here
+   CLOSED: [2011-03-25 fre 16:40]
 ** Add tip of literature
 *** Reading
 
