@@ -41,7 +41,7 @@ Föreningen antog stadgar vid årsmötet 2010 (se nedan). Du kan hitta stadgarna
 
  - [[file:material/stadgar2010.pdf][Fripost stadgar sedan november 2010]]
 
-#+HTML: <div class="divider"></div>
+#+HTML: <a name="board"><div class="divider"></div></a>
 
 * Styrelsen
 
@@ -75,83 +75,27 @@ Administratörsrättigheter ges av styrelsen efter behov. För närvarande har
 Stefan Kangas, Gustav Eek och Leif-Jöran Olsson administratörsrättigheter på
 samtliga system.
 
+** Styrelsemöten och mötesprotokoll
+
+   En transparent administration och beslutsprocess är centralt för föreningen. Medlemmar och intresserade välkomnas därför att delta på styrelsens möten. Information om styrelsens sammanträden, dagordningar och protokoll underhålls på Friposts medlemswiki: [[http://wiki.fripost.org/moten][wiki.fripost.org]]. 
+
 #+HTML: <div class="divider"></div>
 
-* Mötesrapporter och protokoll
-** 2011-03-10 Styrelsemötet
+* Händelser (events)
 
-Detta var ett viktigt möte där föreningens närmaste framtid och fokusområden diskuterades. Också festen den 12 mars diskuterades. 
+  Att driva e-post kommunikation är ett av Fripoståtaganden, men inte det ända...
 
- - [[file:minutes/2011-03-10-board.pdf][Protokoll styrelsemöte 10 mars 2011]]
-
-
-** 2011-02-20 Styrelsemöte
-
-Mötet diskuterade åter mestadels Friposts fest 12 mars. Bl.a. budgeterades 300 kr till att trycka affischer. Festens totala budget är 730 kr, men föreningen räknar med ekonomiskt stöd och med inkomster under festen, så att den bringar pengar in i föreningens kassa. 
-
- - [[file:minutes/2011-02-20-board.pdf][Protokoll styrelsemöte 20 februari 2011]]
-
-** 2011-02-13 Styrelsemöte
-
-Mötets syfte var att diskutera Friposts fest 12 mars. Formen var informell.
-
- - [[file:minutes/2011-02-13-board-notes.pdf][Anteckningar styrelsemöte 13 februari 2011]]
-
-** 2011-02-03 Styrelsemöte
-
-På grund av sjukdom blev det inget formellt möte.  Istället gick vi igenom och
-diskuterade vissa detaljer i e-postsystemet.
-
-** 2011-01-26 Styrelsemöte
-
-/Protokoll kommer snart.../
-
-** 2011-01-20 Styrelsemöte
-
- - [[file:minutes/2011-01-20-board.pdf][Protokoll styrelsemöte 2011-01-20]]
-
-** 2011-01-10 Styrelsemöte
-
-Diskussioner framför allt om föreningens ekonomi och servrar. Beslut att köpa in
-två stycken externa 2TB USB-hårddiskar till säkerhetskopior och att vi under
-nästa vecka försöker få igång den av Leif-Jöran utlånade RAID-arrayen. Denna ska
-fungera som huvudsaklig IMAP tills vidare.
-
- - [[file:minutes/2011-01-10-board.pdf][Protokoll styrelsemöte 2011-01-10]]
+  Med syfte att sprida information om nätfrihet och engagera fler personer annordnar Fripost också flera aktiviteter. 
 
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
-Styrelsen träffades som hastigast innan mötet för att diskutera arbetet. Fokus
-ligger på att bygga upp serverinfrastrukturen just nu, ett arbete som kommer ske
-under hela jullovet. Tahoe Filesystem diskuterades.
-
 Leif-Jöran berättade om kryptering och signering av e-post och alla som ville
 fick byta PGP-nycklar och intygas för cacert.
-
-- [[file:minutes/2010-12-09-board-notes.pdf][Anteckningar styrelsemöte 2010-12-09]]
-
-** 2010-11-17 Styrelsemöte
-
-Diskuterades bland annat antal begränsningar för e-postadresser, alias och egna domäner.
-
-- [[file:minutes/fripost-board-2010-11-17.pdf][Protokoll styrelsemöte 2010-11-17]]
 
 ** 2010-11-07 Deltagande på FSCONS
 
 Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
 [[http://fscons.org][FSCONS]]. Du kan läsa deras abstract [[http://fscons.org/infrastructure/distributed-email-system][här]] (engelska).  Deras slides hittar du [[http://www.slideshare.net/fscons/2010-11-eek-kangas-5745050][här]].
-
-** 2010-11-04 Föreningen bildades
-
-Vi grundade föreningen formellt efter mycket planering och förberedande.
-
-- [[file:minutes/fripost-founding-2010-11-04.pdf][Protokoll från årsmötet 2010-11-04]]
-
-** Tidiga arbetsmöten
-
-- [[file:minutes/2010-10-28.txt][Anteckningar från arbetsmöte 2010-10-28]]
-- [[file:minutes/2010-10-07.txt][Anteckningar från arbetsmöte 2010-10-07]]
-- [[file:minutes/2010-06-21.txt][Anteckningar från arbetsmöte 2010-06-21]]
 
 #+HTML: <div class="divider"></div>
 
