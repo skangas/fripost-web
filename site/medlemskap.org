@@ -49,8 +49,9 @@ Det enklaste sättet att betala *medlemsavgiften på 300 kronor* är genom:
 
 #+HTML: <br /><!-- FIXME: fulhack -->
 
-Lämna ditt namn eller önskade användarnamn i meddelandefältet. Det är också
-möjligt att betala kontant på någon av föreningens träffar.
+Lämna ditt namn eller önskade användarnamn i meddelandefältet.
+
+Det är också möjligt att betala kontant på någon av [[http://wiki.fripost.org/moten/][föreningens träffar]].
 
 #+HTML: <div class="divider"></div>
 
