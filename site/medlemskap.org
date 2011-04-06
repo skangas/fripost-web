@@ -78,13 +78,3 @@ välja att lämna:
 Det enda kravet för att bli medlem är att man måste bo i Sverige. Notera att det
 inte finns några som helst krav på att man ska vara svensk medborgare, det enda
 kravet är att du bor här.
-
-#+HTML: <div class="divider"></div>
-
-# << ovrigt >>
-** Övrigt
-
-För att få igång vår e-posttjänst ordentligt måste vi nå ett tillräckligt antal
-medlemmar.  Lägsta beloppet vi behöver är runt 15 000 kronor. Med en
-medlemsavgift på 300 kronor behöver vi alltså 50 medlemmar innan vi kan komma
-igång på allvar.  Med din hjälp är det inga problem. [[file:faq.html#dyrt][Läs mer här!]]
