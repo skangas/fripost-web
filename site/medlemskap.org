@@ -11,8 +11,8 @@
 <div class="square">
 <h1>Medlemsräknare</h1>
 
-<p>27 av 50 medlemmar<br />
-<span class="progressBar" id="element1">54%</span></p>
+<p>31 av 50 medlemmar<br />
+<span class="progressBar" id="element1">62%</span></p>
 
 <p>Vårt mål för första året är att få ihop 50 medlemmar, då medlemsavgifterna
 ger en ekonomisk lägsta nivå för att säkra föreningens stabilitet. Här räknar vi
@@ -49,8 +49,9 @@ Det enklaste sättet att betala *medlemsavgiften på 300 kronor* är genom:
 
 #+HTML: <br /><!-- FIXME: fulhack -->
 
-Lämna ditt namn eller önskade användarnamn i meddelandefältet. Det är också
-möjligt att betala kontant på någon av föreningens träffar.
+Lämna ditt namn eller önskade användarnamn i meddelandefältet.
+
+Det är också möjligt att betala kontant på någon av [[http://wiki.fripost.org/moten/][föreningens träffar]].
 
 #+HTML: <div class="divider"></div>
 
@@ -78,13 +79,3 @@ välja att lämna:
 Det enda kravet för att bli medlem är att man måste bo i Sverige. Notera att det
 inte finns några som helst krav på att man ska vara svensk medborgare, det enda
 kravet är att du bor här.
-
-#+HTML: <div class="divider"></div>
-
-# << ovrigt >>
-** Övrigt
-
-För att få igång vår e-posttjänst ordentligt måste vi nå ett tillräckligt antal
-medlemmar.  Lägsta beloppet vi behöver är runt 15 000 kronor. Med en
-medlemsavgift på 300 kronor behöver vi alltså 50 medlemmar innan vi kan komma
-igång på allvar.  Med din hjälp är det inga problem. [[file:faq.html#dyrt][Läs mer här!]]
