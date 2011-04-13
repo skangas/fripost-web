@@ -94,8 +94,16 @@ fick byta PGP-nycklar och intygas för cacert.
 
 ** 2010-11-07 Deltagande på FSCONS
 
-Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
-[[http://fscons.org][FSCONS]]. Du kan läsa deras abstract [[http://fscons.org/infrastructure/distributed-email-system][här]] (engelska).  Deras slides hittar du [[http://www.slideshare.net/fscons/2010-11-eek-kangas-5745050][här]].
+   Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
+   [[http://fscons.org][FSCONS]]. Allt material är på engelska.
+
+   - En [[http://fscons.org/2010/infrastructure/distributed-email-system][Sammanfattning]] 
+   - Videoupptagning från föredraget
+     - [[http://vimeo.com/22228099][Del 1 av 3]]
+     - [[http://vimeo.com/22228273][Del 2 av 3]]
+     - [[http://vimeo.com/22228306][Del 3 av 3]]
+   - [[http://www.slideshare.net/fscons/2010-11-eek-kangas-5745050][Bildspel]]
+
 
 #+HTML: <div class="divider"></div>
 
