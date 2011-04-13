@@ -9,7 +9,16 @@
 ** Graphical material?
 ** Work out better structure of website
 ** Translation "Event" -> "Evenemang"
-** TODO Add lint to FSCONS when video is published. 
+** TODO Add lint to FSCONS when video is published.
+** TODO Publish pictures from the party
+   - [ ] Do we want to publish those?
+     - [ ] Send an e-mail to the list
+     - [ ] Await answer
+   - [ ] Get the pictures
+     - [ ] Who ha got them
+       - [ ] Ask the list
+   - [ ] Edit the CSS for pictures. 
+
 * Technical/infrastructure
 ** How are we to handle translations?
 * Wiki
