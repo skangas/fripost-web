@@ -87,6 +87,23 @@ Att driva e-postkommunikation är ett av Friposts åtaganden, men inte det enda.
 
 För att sprida information om nätfrihet och engagera fler personer annordnar vi också en rad olika aktiviteter.
 
+** 2011-03-13 Friposts första fest
+
+I mars kunde Fripost stolt inviga uppstarten och bjuda till fest: "Friposts första fest", eller "FFFFEFFF, Fripost, föreningen för fri e-posts, första fria fest". Platsen var [[file:gnutiken.org][Gnutiken]] Övre Husargatan 27, Göteborg (vid Linnéplatsen)
+
+- Aktivitetsschema:
+
+   | 14:00 | Filmvisning: /The Conversation/ (Coppola,1974)          |
+   | 16:30 | Presentation av föreningen (Stefan Kangas, ordförande)  |
+   | 18:00 | Workshop: "Lär dig kryptera e-post" (Stian Rødven Eide) |
+   | 19:00 | Fest                                                    |
+
+Festen var en lyckad tillställning och flera nya personer bestämde sig för att gå med i föreningen. Detta gör att Fripost lovar arrangera en ny fest. Namnforslag och förslag på teman för kommande fester: FSF, /Friposts sommarfest/; FSCONES, /Friposts  sconesfest/.
+
+ - [[file:material/affisch-12-mars.pdf][Festens affisch]]
+
+/Med tiden kommer också bilder från festen publiceras./
+
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
 Leif-Jöran berättade om kryptering och signering av e-post och alla som ville
@@ -94,8 +111,16 @@ fick byta PGP-nycklar och intygas för cacert.
 
 ** 2010-11-07 Deltagande på FSCONS
 
-Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
-[[http://fscons.org][FSCONS]]. Du kan läsa deras abstract [[http://fscons.org/infrastructure/distributed-email-system][här]] (engelska).  Deras slides hittar du [[http://www.slideshare.net/fscons/2010-11-eek-kangas-5745050][här]].
+   Gustav Eek och Stefan Kangas höll en presentation om Fripost på konferensen
+   [[http://fscons.org][FSCONS]]. Allt material är på engelska.
+
+   - En [[http://fscons.org/2010/infrastructure/distributed-email-system][Sammanfattning]] 
+   - Videoupptagning från föredraget
+     - [[http://vimeo.com/22228099][Del 1 av 3]]
+     - [[http://vimeo.com/22228273][Del 2 av 3]]
+     - [[http://vimeo.com/22228306][Del 3 av 3]]
+   - [[http://www.slideshare.net/fscons/2010-11-eek-kangas-5745050][Bildspel]]
+
 
 #+HTML: <div class="divider"></div>
 

@@ -8,12 +8,23 @@
 ** English/Swedish "icons" for changing languages
 ** Graphical material?
 ** Work out better structure of website
+** Translation "Event" -> "Evenemang"
+** TODO Add lint to FSCONS when video is published.
+** TODO Publish pictures from the party
+   - [ ] Do we want to publish those?
+     - [ ] Send an e-mail to the list
+     - [ ] Await answer
+   - [ ] Get the pictures
+     - [ ] Who ha got them
+       - [ ] Ask the list
+   - [ ] Edit the CSS for pictures. 
+
 * Technical/infrastructure
 ** How are we to handle translations?
 * Wiki
 ** DONE Move meeting information here
    CLOSED: [2011-03-25 fre 16:40]
-** Add tip of literature
+** TODO Add tip of literature
 *** Reading
 
     - jaron Lanier
@@ -23,3 +34,5 @@ b
    - Konflikt 12 mars + intrervju
 
 *** To see
+** TODO Add site about email etiquette
+   There should also be a section about the multiplicity from sending large files to email lists. 
