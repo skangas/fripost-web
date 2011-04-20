@@ -40,7 +40,7 @@ föreningen om man bor i ett helt annat land.  Om någon från Italien vill gå 
 *** Hur långt har ni kommit?
 
 Våra system används varje dag av Friposts medlemmar. Vår webmail finns [[https://mail.fripost.org/][här]], och
-den som är nyfiken kan hitta skärmdumpar [[http://roundcube.net/screens/][här]].
+den som är nyfiken kan hitta skärmdumpar [[http://roundcube.net/screens][här]].
 
 Vi satsar just nu på att rekrytera fler medlemmar för att skapa ekonomiska
 möjligheter att öka systemets stabilitet och tillförlitlighet.
