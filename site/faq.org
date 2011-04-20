@@ -43,13 +43,9 @@ Våra system används varje dag av Friposts medlemmar. Vår webmail finns [[http
 den som är nyfiken kan hitta skärmdumpar [[http://roundcube.net/screens][här]].
 
 Vi satsar just nu på att rekrytera fler medlemmar för att skapa ekonomiska
-möjligheter att öka systemets stabilitet och tillförlitlighet.
-
-Det finns ingen anledning att tveka längre \ndash det är dags att gå med.
-
-På sidan [[file:medlemskap.org][bli medlem]] finns en räknare över antalet medlemmar. Där räknar vi inte
-några löften om betalningar utan bara de medlemmar där betalningen är helt
-bekräftad. Det egentliga antalet torde alltså vara högre.
+möjligheter att öka systemets stabilitet och tillförlitlighet. Vårt mål för
+första året är 50 medlemmar. På sidan [[file:medlemskap.org][bli medlem]] finns en räknare över antalet
+medlemmar.
 
 # << dyrt >>
 
