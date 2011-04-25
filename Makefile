@@ -16,7 +16,7 @@ send: # sends to fripost.org for publication
 	rsync -ruvp --chmod=Dugo+rx,Fugo+r publish/ fripost@fripost.org:fripost.org/
 
 clean:
-	rm *~*; rm test test.d/test; rmdir test.d
+	rm -f *~*; rm -f test test.d/test; rmdir test.d
 
 # Debuging and testing
 send-test: test.d/test
