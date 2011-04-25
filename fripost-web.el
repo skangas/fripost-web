@@ -10,7 +10,7 @@
          :recursive t
          :publishing-function org-publish-org-to-html
          :preamble "<div class=\"header\">
-  <h1><img src=\"images/logo2011_top.png\" /></h1>
+  <h1><img src=\"images/logo2011_top.png\" alt=\"fripost.org | demokratisk e-post\" /></h1>
 <a href=\"index.en.html\" class=\"translate\">Click here for English</a>
 </div>
 
