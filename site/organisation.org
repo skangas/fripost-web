@@ -24,12 +24,18 @@ eller är oklart, tveka inte att [[file:kontakt.org][höra av dig]] till oss med
 #+HTML: <a name="meetings"><div class="divider"></div></a>
 * Möten och sammanträden
 
-Flera möten är inplanerade. Medlemmar och intresserade är hjärtligt välkomna till mötena för att se hur arbetet går till.
+Flera möten är inplanerade. Medlemmar och intresserade är hjärtligt välkomna
+till mötena för att se hur arbetet går till. Om det inte står något annat
+träffas vi på [[file:gnutiken.org][Gnutiken]].
 
- - Tisdag 5 april kl 18.00, styrelsemöte. Mötet sker på Språkbanken, Lennart Torstenssons gata 7.
- - Onsdag 13 april kl 18.00, medlemsmöte. Inget årsmöte kommer hållas under 2011 (se mötet 10 mars), men Fripost bjuder in till medlemsmöte.
- - Onsdag 27 april kl 18.00, styrelsemöte. 
+ - Onsdag 27 april kl 17.00, diskussionsmöte för material.
+ - Onsdag 27 april kl 18.00, styrelsemöte.
  - Onsdag 18 maj kl 18.00, styrelsemöte.
+ - Onsdag 25 maj kl 18.00, medlemsmöte.
+
+
+
+På [[http://wiki.fripost.org/moten/][vår wiki]] finns en aktuell lista över kommande möten samt protokoll från tidigare möten. 
 
 [[file:index.org][Till startsidan]]
 
