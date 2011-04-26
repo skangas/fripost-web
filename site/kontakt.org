@@ -2,7 +2,7 @@
 #+SETUPFILE: includes/level-0.org
 
 Om du vill kontakta oss, skicka ett e-brev till vår ordförande Stefan Kangas på
-[[mailto:skangas@skangas.se][skangas@skangas.se]].
+#+HTML: <a href="mailto:skangas@skangas.se" subject="Fripost">skangas@skangas.se</a>.
 
 #+HTML: <div class="divider"></div>
 
