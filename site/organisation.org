@@ -33,8 +33,6 @@ träffas vi på [[file:gnutiken.org][Gnutiken]].
  - Onsdag 18 maj kl 18.00, styrelsemöte.
  - Onsdag 25 maj kl 18.00, medlemsmöte.
 
-
-
 På [[http://wiki.fripost.org/moten/][vår wiki]] finns en aktuell lista över kommande möten samt protokoll från tidigare möten. 
 
 [[file:index.org][Till startsidan]]
@@ -107,8 +105,6 @@ I mars kunde Fripost stolt inviga uppstarten och bjuda till fest: "Friposts för
 Festen var en lyckad tillställning och flera nya personer bestämde sig för att gå med i föreningen. Detta gör att Fripost lovar arrangera en ny fest. Namnforslag och förslag på teman för kommande fester: FSF, /Friposts sommarfest/; FSCONES, /Friposts  sconesfest/.
 
  - [[file:material/affisch-12-mars.pdf][Festens affisch]]
-
-/Med tiden kommer också bilder från festen publiceras./
 
 ** 2010-12-09 Öppet möte om kryptering av e-post
 
