@@ -1,6 +1,14 @@
 #+TITLE:     Föreningen Fripost
 #+SETUPFILE: includes/level-0.org
 
+#+BEGIN_HTML
+<div class="square">
+<h1>Logga in</h1>
+<p>Du som är medlem kan logga in på din e-post <a href="https://mail.fripost.org/">här</a>.
+</p>
+</div>
+#+END_HTML
+
 Fripost är en demokratisk förening, vilket betyder att alla beslut om
 föreningens inriktning fattas gemensamt av våra medlemmar. Som medlem kan du
 delta på alla möten i föreningen, inklusive styrelsens möten.
