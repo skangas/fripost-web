@@ -4,6 +4,42 @@
 
 #+HTML: <div class="divider"></div>
 
+** Att ha sin e-post hos Fripost
+
+*** Är det svårt att ha sin e-post hos Fripost?
+
+Man behöver inga speciella kunskaper för att ha sin e-post hos Fripost. Om du
+idag använder till exempel Hotmail eller Gmail kommer du känna dig som hemma
+direkt.
+
+*** Hur får jag hjälp?
+
+Du hittar dokumentation på vår [[http://wiki.fripost.org/][medlemswiki]] eller så kan du fråga på vår
+[[file:kontakt.org][e-postlista]]. Om frågan gäller ditt konto kan du ta det med administratörerna på
+[[mailto:admin@fripost.org][admin@fripost.org]].
+
+*** Var loggar jag in?
+
+Du kan logga in på din e-post här: [[https://mail.fripost.org/]]
+
+*** När får jag mina inloggningsuppgifter?
+
+När du betalat medlemsavgiften så tar det ett tag innan det dyker upp på vårt
+konto. Vi går igenom och lägger till nya medlemmar regelbundet allt eftersom vi
+hinner stämma av mellan kassören och administratörerna.
+
+*** Jag har en egen domän. Kan jag ha kvar den?
+
+Du kan koppla din domän till Friposts servrar och fortsätta e-posta med den. Du
+kan läsa mer om detta på vår [[http://wiki.fripost.org/e-post/doman/][medlemswiki]].
+
+*** Hur stora mail kan jag skicka?
+
+Vi har väl tilltagna gränser: Ett e-brev får vara max 50 MB stort och totalt får
+varje medlem 10 GB att förfoga över.
+
+#+HTML: <div class="divider"></div>
+
 ** Allmänt om Föreningen
 
 *** Vad är fria e-postföreningen?
