@@ -1,8 +1,14 @@
 #+TITLE:     Kontakta Fripost
 #+SETUPFILE: includes/level-0.org
 
-Om du vill kontakta oss, skicka ett e-brev till vår ordförande Stefan Kangas på
-#+HTML: <a href="mailto:skangas@skangas.se" subject="Fripost">skangas@skangas.se</a>.
+För att kontakta Fripost, skicka ett e-brev till
+#+HTML: <a href="mailto:info@fripost.org">info@fripost.org</a>. </p><p>
+
+Du kan nå vår ordförande Stefan Kangas på
+#+HTML: <a href="mailto:stefan@fripost.org">stefan@fripost.org</a>. </p><p>
+
+Du kan nå våra administratörer på
+#+HTML: <a href="mailto:admin@fripost.org">admin@fripost.org</a>. </p><p>
 
 #+HTML: <div class="divider"></div>
 
