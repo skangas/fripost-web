@@ -11,8 +11,8 @@
 <div class="square">
 <h1>Medlemsräknare</h1>
 
-<p>40 av 50 medlemmar<br />
-<span class="progressBar" id="element1">80%</span></p>
+<p>41 av 50 medlemmar<br />
+<span class="progressBar" id="element1">82 %</span></p>
 
 <p>Vårt mål för första året är att få ihop 50 medlemmar, då medlemsavgifterna
 ger en ekonomisk lägsta nivå för att säkra föreningens stabilitet. Här räknar vi
