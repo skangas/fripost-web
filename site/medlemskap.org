@@ -11,8 +11,8 @@
 <div class="square">
 <h1>Medlemsräknare</h1>
 
-<p>42 av 50 medlemmar<br />
-<span class="progressBar" id="element1">84 %</span></p>
+<p>43 av 50 medlemmar<br />
+<span class="progressBar" id="element1">86 %</span></p>
 
 <p>Vårt mål för första året är att få ihop 50 medlemmar, då medlemsavgifterna
 ger en ekonomisk lägsta nivå för att säkra föreningens stabilitet. Här räknar vi
@@ -37,7 +37,14 @@ Det går naturligtvis också att betala kontant på någon av [[http://wiki.frip
 
 ** Vad innebär medlemskapet?
 
-Som medlem får man:
+Att bli medlem i vår förening betyder att man träder in på samma villkor som
+alla andra. Det betyder alltså inte bara att man får en e-post fri från
+övervakning, utan man blir samtidigt en del av något större.
+
+I Fripost är alla så aktiva eller inaktiva som de vill, men varje medlem har
+samma rätt och möjlighet att delta i föreningens interna demokratiska liv.
+
+Som medlem får man dessutom:
 
 - En e-postadress, en inkorg och möjlighet till ett extra alias på fripost.org
 - Möjlighet att koppla en av dina egna domäner till våra e-postservrar
