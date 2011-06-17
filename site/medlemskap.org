@@ -21,26 +21,7 @@ absolut ska gå med, men väntar på nästa löning eller liknande. Är du en av
 Dags att gå till handling! :-) </p> </div>
 #+END_HTML
 
-För att gå med i Fripost, betala medlemsavgiften (300 kronor per år) och skicka
-ett mail med din information enligt nedan.  Din information kan du skicka till
-Stefan Kangas på [[mailto:skangas@skangas.se][skangas@skangas.se]].
-
-Om du vill och vet hur man gör så kan du kryptera din information till
-PGP-nyckel 0x8F4353EE.
-
-** Medlemskapet
-
-Som medlem får man:
-
-- En e-postadress, en inkorg och möjlighet till ett extra alias på fripost.org
-- Möjlighet att koppla en av dina egna domäner till våra e-postservrar
-- Ett obegränsat antal alias på din egen domän
-
-#+HTML: <div class="divider"></div>
-
-** Betalning
-
-Det enklaste sättet att betala *medlemsavgiften på 300 kronor* är genom:
+För att gå med i Fripost, betala medlemsavgiften (300 kronor per år) enligt nedan.
 
 |----------+----------|
 | Plusgiro | 477884-1 |
@@ -49,28 +30,29 @@ Det enklaste sättet att betala *medlemsavgiften på 300 kronor* är genom:
 
 #+HTML: <br /><!-- FIXME: fulhack -->
 
-Lämna ditt namn eller önskade användarnamn i meddelandefältet.
+Glöm inte att lämna kontaktuppgifter i meddelandefältet så vi kan nå dig. En
+e-postadress och/eller ett telefonnummer är fullt tillräckligt.
 
-Det är också möjligt att betala kontant på någon av [[http://wiki.fripost.org/moten/][föreningens träffar]].
+Det går naturligtvis också att betala kontant på någon av [[http://wiki.fripost.org/moten/][föreningens träffar]].
+
+** Vad innebär medlemskapet?
+
+Som medlem får man:
+
+- En e-postadress, en inkorg och möjlighet till ett extra alias på fripost.org
+- Möjlighet att koppla en av dina egna domäner till våra e-postservrar
+- Ett obegränsat antal alias på din egen domän
+
+Om du har några frågor om medlemskapet eller något annat, tveka inte att [[file:kontakt.org][kontakta oss]].
 
 #+HTML: <div class="divider"></div>
 
-** Medlemsinformation
+** Anonymt medlemskap
 
-Fripost bryr sig om medlemmarnas integritet och uppmuntrar till försiktighet vad
-gäller att lämna ut personuppgifter.  I den andan erbjuder Fripost anonymt
-medlemskap, för vilket det enda vi behöver veta är:
-
-- Den önskade e-postadressen (dittnamn@fripost.org)
-
-För att möjliggöra för Fripost att nå dig med viktig information kan du också
-välja att lämna:
-
-- Ditt riktiga namn
-- Nuvarande e-postadress (rekommenderat)
-- Telefon- och mobilnummer
-- Fysisk adress
-- Om du vill gå med i e-postlistan
+Fripost bryr sig om medlemmarnas integritet och uppmuntrar till försiktighet med
+att lämna ut personuppgifter. I den andan erbjuder Fripost anonymt medlemskap,
+för vilket det enda vi behöver veta är vilken e-postadress du vill ha och ett
+sätt att nå dig.
 
 #+HTML: <div class="divider"></div>
 

@@ -22,7 +22,7 @@ ska vara lätt att hitta information om föreningens verksamhet, vare sig det
 gäller nästa träff, senaste mötesprotokollet eller information om våra tekniska
 system.
 
-Våra tekniska lösningar [[https://github.com/skangas/fripost-docs][dokumenterar]] vi utförligt och historik över förändringar
+Våra tekniska lösningar [[http://git.fripost.org/][dokumenterar]] vi utförligt och historik över förändringar
 sparar vi med ett versionshanteringssystem.  Det gör det enkelt för den som vill
 (och kan) att följa administratörernas arbete på nära håll.
 
@@ -143,6 +143,6 @@ Göteborgs wiki-sida]].  Fripost började som ett projekt inom den föreningen, 
 Det finns [[file:material/leaflet.pdf][ett flygblad]] som togs fram till FSCONS.  Det får du gärna skriva ut
 och sprida till andra.  Flygbladet är på engelska.
 
-Vår [[http://github.com/skangas/fripost-web][hemsida]] och [[https://github.com/skangas/fripost-docs][tekniska dokumentation]] finns tillgängligt i [[http://git-scm.com/][git-förråd]].
+Vår [[http://git.fripost.org][hemsida]] och [[http://git.fripost.org][tekniska dokumentation]] finns tillgängligt i [[http://git-scm.com/][git-förråd]].
 
 Se [[file:medlemskap.org][medlemssidan]] för mer information om hur du kan gå med i Fripost.
