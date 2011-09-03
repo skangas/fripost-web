@@ -115,9 +115,9 @@ Den som vill ha aktuell information om vår ekonomi rekommenderas att dyka upp p
 något av föreningens möten. Alla medlemmar har rätt att få insyn i föreningens
 ekonomi.
 
-Den som har ett tekniskt specialintresse kanske är intresserad av följande: De
-största utgifterna är lagringsutrymme till våra e-brev och säkerhetskopior samt
-kostnad för riktigt bra hostning för en huvudserver.
+Den som är tekniskt intresserad kanske är intresserad av följande: De största
+utgifterna är lagringsutrymme till våra e-brev och säkerhetskopior samt kostnad
+för riktigt bra hostning för en huvudserver.
 
 #+HTML: <div class="divider"></div>
 
