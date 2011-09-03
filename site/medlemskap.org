@@ -19,7 +19,28 @@ målsättning håller vi inte lika noga på att uppdatera denna räknare exakt.<
 </p> </div>
 #+END_HTML
 
-För att gå med i Fripost, betala medlemsavgiften (300 kronor per år) enligt nedan.
+För att bli medlem i Fripost är det bara att betala medlemsavgiften på 300
+kronor per år på något av sätten nedan. Glöm inte att lämna kontaktuppgifter så
+vi kan nå dig. En e-postadress och/eller ett telefonnummer är fullt
+tillräckligt.
+
+
+Du kan betala via /PayPal/ genom att klicka på den här knappen:
+
+#+BEGIN_HTML
+<div align="middle">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="XB88AFWGDQELE">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+#+END_HTML
+
+#+HTML: <br /><!-- FIXME: fulhack -->
+
+Du kan betala till något av följande konton.
 
 |----------+----------|
 | Plusgiro | 477884-1 |
@@ -28,10 +49,7 @@ För att gå med i Fripost, betala medlemsavgiften (300 kronor per år) enligt n
 
 #+HTML: <br /><!-- FIXME: fulhack -->
 
-Glöm inte att lämna kontaktuppgifter i meddelandefältet så vi kan nå dig. En
-e-postadress och/eller ett telefonnummer är fullt tillräckligt.
-
-Det går naturligtvis också att betala kontant på någon av [[http://wiki.fripost.org/moten/][föreningens träffar]].
+Du kan betala kontant på någon av [[http://wiki.fripost.org/moten/][föreningens träffar]].
 
 ** Vad innebär medlemskapet?
 
