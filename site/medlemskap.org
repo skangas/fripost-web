@@ -11,14 +11,12 @@
 <div class="square">
 <h1>Medlemsräknare</h1>
 
-<p>43 av 50 medlemmar<br />
-<span class="progressBar" id="element1">86 %</span></p>
+<p>50 av 50 medlemmar<br />
+<span class="progressBar" id="element1">100 %</span></p>
 
-<p>Vårt mål för första året är att få ihop 50 medlemmar, då medlemsavgifterna
-ger en ekonomisk lägsta nivå för att säkra föreningens stabilitet. Här räknar vi
-bara folk som har betalat medlemsavgiften. Det är många som har sagt att de
-absolut ska gå med, men väntar på nästa löning eller liknande. Är du en av dem?
-Dags att gå till handling! :-) </p> </div>
+<p>Vi har nått vårt mål för första året på 50 medlemmar. <em>Nu när vi nått vår
+målsättning håller vi inte lika noga på att uppdatera denna räknare exakt.</em>
+</p> </div>
 #+END_HTML
 
 För att gå med i Fripost, betala medlemsavgiften (300 kronor per år) enligt nedan.
