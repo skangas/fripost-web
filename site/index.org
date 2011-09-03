@@ -3,8 +3,8 @@
 
 #+BEGIN_HTML
 <div class="square">
-<h1>Nästa möte</h1>
-<p>Medlemsmöte onsdag 25 maj 2011 kl 18.00 på <a href="gnutiken.html">Gnutiken</a>. Läs mer om Friposts möten <a href="organisation.html#meetings">här</a>.
+<h1>Nästa aktivitet</h1>
+<p>På <a href="http://wiki.fripost.org/moten/">vår wiki</a> hittar du information om kommande möten samt protokoll från tidigare möten.
 </p>
 </div>
 #+END_HTML
