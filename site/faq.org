@@ -94,9 +94,7 @@ solidariska medlemmar donerat eller lånat ut. Det kommer vi fortsätta göra. M
 för att kunna bygga en bra lösning för e-post måste vissa grejer köpas in som
 helt enkelt är för dyra för att någon enskild ska kunna donera dem. Innan vi
 gjort dessa inköp kan vi inte nå den tillförlitlighet som är nödvändig för
-någonting så viktigt som e-post. De största utgiftsposterna är lagringsutrymme
-till våra e-brev och säkerhetskopior samt kostnad för riktigt bra hostning för
-en huvudserver.
+någonting så viktigt som e-post.
 
 Hur mycket det kommer att kosta att vara med i framtiden vet vi inte.  Det beror
 bland annat på hur många vi lyckas rekrytera: det borde vara lättare att sänka
@@ -110,6 +108,16 @@ riktad marknadsföring idag och vem vet vad imorgon. Detta är vad deras så
 kalllade gratistjänster erbjuder.
 
 Sett i det perspektivet tycker vi att 300 kronor är ett lågt pris för frihet.
+
+*** Vilka utgifter har Fripost?
+
+Den som vill ha aktuell information om vår ekonomi rekommenderas att dyka upp på
+något av föreningens möten. Alla medlemmar har rätt att få insyn i föreningens
+ekonomi.
+
+Den som har ett tekniskt specialintresse kanske är intresserad av följande: De
+största utgifterna är lagringsutrymme till våra e-brev och säkerhetskopior samt
+kostnad för riktigt bra hostning för en huvudserver.
 
 #+HTML: <div class="divider"></div>
 
