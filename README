@@ -23,12 +23,9 @@ This is the standard project workflow
 These are the repositories to check for changes
 
  - Fetch URL:s
-    - git://repo.or.cz/fripost-web.git
-    - http://repo.or.cz/r/fripost-web.git
-    - git://github.com/skangas/fripost-web.git
+    - http://git.fripost.org/pub/fripost-web.git
  - Push URL:s
-    - ssh://repo.or.cz/srv/git/fripost-web.git
-    - git://github.com/skangas/fripost-web.git
+    - gitolite@git.fripost.org:fripost-web
 
 To get push access to the repository at repo, get an account, and send an email to Gustav (see contact below)
 
